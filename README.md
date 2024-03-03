@@ -1,0 +1,1 @@
+These are my medical notes for prepartion of Medical Entrance Exams. Feel free to study from it.
