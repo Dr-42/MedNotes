@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "f4107722a63098b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac2621fdb2bb2dda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3004864b3cf8120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Surgery/Liver/HydatidCyst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2591fa1a8a9b1c7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "547a2162db4a16c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b7d2c64debbc896",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5052eaa37a2943f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b56de07b4120248",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "336b77aacbf0069e",
+    "type": "split",
+    "children": [
+      {
+        "id": "246be7dc542cfe54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f34158e0ae0433f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Surgery/Liver/HydatidCyst.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "daeb39ac07a843dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Surgery/Liver/HydatidCyst.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17d3179d5398b948",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1bd18aa40b9f2c2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Surgery/Liver/HydatidCyst.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f3004864b3cf8120",
+  "lastOpenFiles": [
+    "Surgery/Liver/HydatidCyst.md",
+    "Surgery/Liver/LiverAbscess.md",
+    "Surgery/Liver/CouinaudSegments.md",
+    "2024-03-03.md",
+    "Surgery/Liver/LiverTumors.md",
+    "Surgery/Liver/LiverTumors/HCC.md",
+    "Surgery/Liver.md",
+    "Surgery/Liver 1.md",
+    "Surgery/Images/CouinaudSegments.jpg",
+    "Surgery/Liver/LiverTumors",
+    "Surgery/Liver",
+    "Surgery/Images/PortalTriad_MickeyMouse.jpg",
+    "Surgery/Images",
+    "Image.md",
+    "Surgery.md",
+    "Surgery",
+    "Welcome.md"
+  ]
+}
