@@ -11,11 +11,10 @@
             "id": "e09a8e7a0e9b9114",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Surgery/Liver/LiverTumors.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/appearance.json",
+                "staged": false
               }
             }
           }
@@ -64,8 +63,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "316a7eba4b4f688a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surgery/Liver/LiverTumors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surgery/Liver/LiverTumors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +130,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Surgery/Liver/LiverTumors.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 325.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,9 +152,18 @@
   },
   "active": "e09a8e7a0e9b9114",
   "lastOpenFiles": [
-    "Surgery/Liver/LiverTumors/Hemangioma.md",
     "Surgery/Liver/LiverTumors.md",
+    "Surgery/Liver/LiverTumors/Hepatoblastoma.md",
     "Surgery/Skeletal/Bone/BoneMets.md",
+    "Surgery/Liver/LiverTumors/HCC.md",
+    "Misc..md",
+    "Surgery/Lung/Tumors/Mets.md",
+    "Surgery/Images/HCCTriplePhaseCT.jpg",
+    "Misc/Untitled.md",
+    "Misc",
+    "Surgery/Liver/LiverTumors/HepaticAdenoma.md",
+    "Surgery/Liver/LiverTumors/FNH.md",
+    "Surgery/Liver/LiverTumors/Hemangioma.md",
     "Surgery/Bone/BoneMets.md",
     "Surgery/Bone",
     "Surgery/Liver/LiverTumors/Mets.md",
@@ -158,10 +172,8 @@
     "Surgery/Lung.md",
     "README.md",
     "LICENSE",
-    "Surgery/Lung/Tumors/Mets.md",
     "Surgery/Lung/Tumors",
     "Surgery/Lung",
-    "Surgery/Liver/LiverTumors/HCC.md",
     "Surgery/Skeletal/Bone/Untitled.md",
     "Surgery/Skeletal/Bone",
     "Surgery/Skeletal",
@@ -184,7 +196,6 @@
     "Surgery/Images",
     "Image.md",
     "Surgery.md",
-    "Surgery",
     "Welcome.md"
   ]
 }
