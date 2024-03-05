@@ -1,9 +1,9 @@
 ![[CouinaudSegments.jpg]]
 
 # Basis
-Liver is divided into 8 segments on the basis of:
-- Portal Vein
-- Hepatic Vein
+- Liver is divided into 8 segments on the basis of:
+	- Portal Vein
+	- Hepatic Vein
 ## Relations
 - Gall Bladder is close to Segment IV<sub>b</sub> & V.
 ```

@@ -19,3 +19,5 @@
 2. [Liver Abscess](Surgery/Liver/LiverAbscess.md)
 3. [Hydatid Cyst](Surgery/Liver/HydatidCyst.md)
 4. [Liver Tumors](Surgery/Liver/LiverTumors.md)
+5. [Portal Hypertension](Surgery/Liver/PortalHypertension.md)
+

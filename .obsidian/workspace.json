@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "80695a9d5a54204b",
+        "id": "57cbd65060992e12",
         "type": "tabs",
         "children": [
           {
-            "id": "e09a8e7a0e9b9114",
+            "id": "ec498c66fdad5ec6",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/appearance.json",
-                "staged": false
+                "file": "Surgery/Liver/PortalHypertension.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "336b77aacbf0069e",
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Surgery/Liver/PortalHypertension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Surgery/Liver/PortalHypertension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Surgery/Liver/PortalHypertension.md"
+              }
             }
           }
         ],
@@ -150,13 +155,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e09a8e7a0e9b9114",
+  "active": "ec498c66fdad5ec6",
   "lastOpenFiles": [
+    "Surgery/Images/TIPSS.jpg",
+    "Misc.md",
+    "Surgery/Liver/PortalHypertension.md",
+    "Surgery/Images/LintonNachlasTube.jpg",
+    "Surgery/Images/SengstakenBlakemoreTube.jpg",
+    "Surgery/Liver/CouinaudSegments.md",
+    "Surgery/Liver.md",
+    "Surgery/Liver/LiverTumors/Mets.md",
     "Surgery/Liver/LiverTumors.md",
+    "Surgery/Images/PortalAnastomses.jpg",
+    "Surgery/Images/LiverAnatomy.jpg",
     "Surgery/Liver/LiverTumors/Hepatoblastoma.md",
     "Surgery/Skeletal/Bone/BoneMets.md",
     "Surgery/Liver/LiverTumors/HCC.md",
-    "Misc..md",
     "Surgery/Lung/Tumors/Mets.md",
     "Surgery/Images/HCCTriplePhaseCT.jpg",
     "Misc/Untitled.md",
@@ -166,7 +180,6 @@
     "Surgery/Liver/LiverTumors/Hemangioma.md",
     "Surgery/Bone/BoneMets.md",
     "Surgery/Bone",
-    "Surgery/Liver/LiverTumors/Mets.md",
     "Surgery/Lung/Tumors/Ca Lung.md",
     "Surgery/Skeletal/Bone.md",
     "Surgery/Lung.md",
@@ -183,19 +196,12 @@
     "Surgery/Images/HydatidEvacNOmentopexy.jpg",
     "Surgery/Images/HydatidCT.jpg",
     "Surgery/Images/HydatidUSG.jpg",
-    "Surgery/Images/Hydatid Life Cycle.jpg",
     "Surgery/Liver/LiverAbscess.md",
-    "Surgery/Liver/CouinaudSegments.md",
     "2024-03-03.md",
-    "Surgery/Liver.md",
     "Surgery/Liver 1.md",
-    "Surgery/Images/CouinaudSegments.jpg",
     "Surgery/Liver/LiverTumors",
     "Surgery/Liver",
-    "Surgery/Images/PortalTriad_MickeyMouse.jpg",
     "Surgery/Images",
-    "Image.md",
-    "Surgery.md",
-    "Welcome.md"
+    "Image.md"
   ]
 }

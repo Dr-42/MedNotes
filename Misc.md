@@ -28,3 +28,12 @@
 	- 2nd line agent for HER-2 neu poitive Breast Ca
 - Geftinib
 	- Used for **adenocarcinoma lung** in non-smoker females
+
+# Doppler is IOC for
+- POrtal HTN
+- Tersticular torsion
+- Varicocele
+
+# Duplex is IOC for
+- Varicose vein
+- DVT
