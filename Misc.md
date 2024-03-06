@@ -63,3 +63,21 @@
 > Gall bladder is missing muscularis mucosa and submucosa
 > Maximum absorptive capacity - jejunum
 > Maximum absorptive capacity per unit surface area - gall bladder
+
+# MRCP
+- T2 phase of MRI
+	- Fast moving fluid
+		- Gives no signal
+		- Black
+	- Slow moving fluids like _bile, pancreati juice_
+		- High signal intensity
+		- Appears white (no contrast needed)
+- IOC for
+	- CBD stone
+	- Choledochal cyst
+	- Biliary stricture
+	- Cholangiosarcoma
+		- MRI + MRCP is IOC
+	- Primary sclerosing cholangitis
+	- Pancreatic divisum
+	- Chronic Pancreatitis

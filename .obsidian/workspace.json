@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "f4107722a63098b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "155a16d16337c22c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75c573f93caeb323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Surgery/PancreatoBiliary/BileDuct.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2591fa1a8a9b1c7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "547a2162db4a16c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b7d2c64debbc896",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5052eaa37a2943f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b56de07b4120248",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "316a7eba4b4f688a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "336b77aacbf0069e",
+    "type": "split",
+    "children": [
+      {
+        "id": "246be7dc542cfe54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f34158e0ae0433f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Surgery/PancreatoBiliary/BileDuct.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "daeb39ac07a843dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Surgery/PancreatoBiliary/BileDuct.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17d3179d5398b948",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1bd18aa40b9f2c2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Surgery/PancreatoBiliary/BileDuct.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8b7d2c64debbc896",
+  "lastOpenFiles": [
+    "Surgery/PancreatoBiliary/Gall Bladder.md",
+    "Misc.md",
+    "Surgery/Lung/Tumors/Mets.md",
+    "Surgery/Lung/Tumors/Ca Lung.md",
+    "Surgery/Skeletal/Bone/BoneMets.md",
+    "Surgery/PancreatoBiliary/Liver.md",
+    "Surgery/PancreatoBiliary/BileDuct.md",
+    "Surgery/PancreatoBiliary/Liver/PortalHypertension.md",
+    "Surgery/PancreatoBiliary/Liver/LiverTumors.md",
+    "Surgery/PancreatoBiliary/Liver/LiverAbscess.md",
+    "Surgery/PancreatoBiliary/Liver/HydatidCyst.md",
+    "Surgery/PancreatoBiliary/Liver/CouinaudSegments.md",
+    "Surgery/PancreatoBiliary/Liver/LiverTumors/Mets.md",
+    "Surgery/PancreatoBiliary/Liver/LiverTumors/Hepatoblastoma.md",
+    "Surgery/PancreatoBiliary/Liver/LiverTumors/HepaticAdenoma.md",
+    "Surgery/PancreatoBiliary/Liver/LiverTumors/Hemangioma.md",
+    "Surgery/PancreatoBiliary/Liver/LiverTumors/HCC.md",
+    "Surgery/PancreatoBiliary/Liver/LiverTumors/FNH.md",
+    "Surgery/Images/CholedochalCyst.jpg",
+    "Surgery/Images/SphincterofOddi.jpg",
+    "Surgery/Gall Bladder.md",
+    "Surgery/Liver",
+    "Surgery/PancreatoBiliary",
+    "maps/Surgery_Gall_Bladder.html",
+    "maps",
+    "create_maps.c~",
+    "maps/README.html",
+    "maps/Misc.html",
+    "maps/Surgery.html",
+    "README.html",
+    "Misc.html",
+    "Surgery/Images/PorcelainGB_CT.jpg",
+    "Surgery/Images/AdenomyomatosisUSG.jpg",
+    "Surgery/Images/CholesterolosisGB.jpg",
+    "Surgery/Images/Mirizzi.jpg",
+    "Surgery/Images/MercedesBenzSign.jpg",
+    "Surgery/Images/Torrent Search Engine 1337x.to_files/logo.svg",
+    "Surgery/Images/CholesterolGallStones.jpg",
+    "Surgery/Images/CaterpillarTurn.jpg",
+    "Untitled.canvas",
+    "Misc/Untitled.md",
+    "Surgery/Bone/BoneMets.md",
+    "Surgery/Skeletal/Bone.md",
+    "Surgery/Lung.md",
+    "README.md",
+    "Surgery/Skeletal/Bone/Untitled.md"
+  ]
+}

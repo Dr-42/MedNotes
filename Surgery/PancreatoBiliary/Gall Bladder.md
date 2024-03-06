@@ -1,3 +1,4 @@
+# Gall Bladder
 ## General
 - Max absorptive capacity per unit surface area in all GIT
 - Pyriform in shape
@@ -316,7 +317,7 @@
 - MC site : Fundus(60%) > Body(30%) > Nek(10%)
 - MC route of spread is Direct hepatic spread
 	- hepatic > lymphatic > perineural
-- Segment of liver involved in early stage: [IV<sub>a</sub> and V](CouinaudSegments.md)
+- Segment of liver involved in early stage: [IV<sub>a</sub> and V](Surgery/PancreatoBiliary/Liver/CouinaudSegments)
 - Ca Gallbladder patient have gall stone in 75 - 98% cases
 - Gall stone patients develop Ca GB in 0.3 - 3% cases (large gall stones are risk factors for Ca GB > (3cm))
 

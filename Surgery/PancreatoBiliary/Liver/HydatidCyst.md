@@ -1,3 +1,4 @@
+# Hydatid Cyst
 ## General
 - It is a zoonosis primarily occuring in sheep rearing countries.
 - Endemic in Mediterrenian countries, South America, New Zealand, and East Africa.
