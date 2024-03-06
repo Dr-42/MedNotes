@@ -87,3 +87,39 @@
 	- Used to
 		- Remove stone from <b><u>proximal</b></u> part of bile duct, intrahepatic bile
 		- Locate stent for <b><u>proximal</b></u> biliary strictures
+## Choledocolithiasis
+### General
+- Present in 6-12% patients of gall stones
+- Types
+	- Retained CBD stones
+		- Detected within 2 years of cholecystectomy
+	- Recurrent CBD stones
+		- Detected after 2 years of cholecystectomy
+
+| Primary stones                                                   | Secondary stones            |
+| :--------------------------------------------------------------- | :-------------------------- |
+| Formed inside CBD                                                | Formed in Gall Bladder      |
+| MC stone - Brown                                                 | Slips into CBD              |
+| MC in developing countries                                       | MC type - Cholesterol stone |
+| Worm infestations<ul><li>_Ascaris_<li>_Clonorchis sinensis_</ul> | MC in western countries     |
+### Lab Parameters
+- ALP $\uparrow$ 
+- GGT $\uparrow$
+- 5-nucleotidase $\uparrow$
+### Clinical Features
+- Two types of presentation
+	- Asymptomatic
+		- Asymptomatic elevation of [[#Lab Parameters]]
+	- Jaundice with or withot complications
+### Complications
+- Increased risk of infections
+- Increased risk of pancreatitis
+- Increased risk of cholangiocarcinoma
+### Investigation
+- Gold Standard - ERCP
+- IOC - MRCP
+### Treatment
+- ERCP + Stone removal
+	- Maximum size of stone removed - 1.5cm
+- Stone > 1.5cm - Choledocotomy
+- When distal obstruction is suspected - Choledochoduodenostomy
