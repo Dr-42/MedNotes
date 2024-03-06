@@ -12,7 +12,7 @@
 	- Ca Penis
 	- Testicular Tumor
 	- Soft Tissue Sarcoma
-	- [HCC](Surgery/Liver/LiverTumors/HCC)
-	- [Hepatoblastoma](Surgery/Liver/LiverTumors/Hepatoblastoma)
+	- [HCC](HCC.md)
+	- [Hepatoblastoma](Hepatoblastoma.md)
 	- Wilm's Tumor
 	- CA Oral Cavity
