@@ -81,3 +81,11 @@
 	- Primary sclerosing cholangitis
 	- Pancreatic divisum
 	- Chronic Pancreatitis
+# Important autoantibodies
+
+| Disorder                  | Antibody                                                                  |
+| :------------------------ | ------------------------------------------------------------------------- |
+| Primary biliary cirrhosis | Anti-mitochondrial antibody                                               |
+| Grave's disease           | LATS (Long acting thyroid stimulator/Thyroid stimulator Ab against TSH-R) |
+| Hashimoto's thyroiditis   | Anti-TPO                                                                  |
+| Pernicious Anemia         | Ab against pareital cells                                                 |

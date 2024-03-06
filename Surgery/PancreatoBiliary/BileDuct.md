@@ -123,3 +123,70 @@
 	- Maximum size of stone removed - 1.5cm
 - Stone > 1.5cm - Choledocotomy
 - When distal obstruction is suspected - Choledochoduodenostomy
+## Cholangitis
+### General
+- Mandatory principles
+	- Obstruction
+	- Infection
+- Predisposing factors
+	- Choledocholithiasis (MC)
+	- Biliary stricture
+	- Choledochal cyst
+	- Cholangiocarcinoma
+	- Worms
+### Pathophysiology
+- MC organism : _E. coli_ > _Klebsiella_
+- Normal CBD pressure : 10 - 12cm of H<sub>2</sub>O
+- When obstruction occurs → CBD pressure rises
+- When CBD pressure > 25cm of H<sub>2</sub>O two reflexes occur
+	- Cholangiovenous
+	- Cholangiolymphatic
+### Clinical Features
+- **Charcot's Traid** : pain + Jaundice + Fever
+- Reynold's Pentad (if delayed t/t) : Charcot's triad + Shock + Mental status changes
+- >50% pts. have +ve blood culture
+- MC symptom of of sepsis in cholangitis is Chills
+### Management
+- Two Large bore IV canula
+- Start IV fluids + IV antibiotics
+- If no improvement: ERCP with stone extraction/stenting
+- If not available/failed : PTC with stone extraction/stenting
+- If PTC not available/failed: Open biliary decompression
+#### Open Biliary Decompression
+```mermaid
+graph TD
+id1(Give longitudinal incision on bile duct)
+id2(Stone Removed)
+id3(T-Tube inserted)
+id4(T-tube cholangiogram)
+id5(Retain T-tube)
+id5(Percutaneous stone extraction by Burhenne Technique)
+
+id1 --> id2
+id2 --> id3
+id3 -- After 7th to 10th day --> id4
+id4 -- If presence of distal filling defects --> id5
+```
+## Autoimmune Disorders
+### General
+- Autoantiody - Anti-mitochondrial antibody
+- MC in females
+
+### Pathology
+- Progressive destruction of intrahepatic bile ducts only
+- Diagnostic appearance
+	- Florid duct lesion with lymphocytic infiltration and granulomatous inflammation
+- Associated with
+	- Hyperlipidemia
+	- Xanthoma, Xanthelasma
+	- Melanosis
+### Clinical Features
+- Pruritis precedes jaundice
+- Pruritis and fatigue - Characterisitic symptoms
+- Pruritis - most bothersome in evening
+### Diagnosis
+- Anti-mitochondrial Ab - Can confirm diagnosis
+- IOC - Biopsy
+### Treatment
+- Liver transplantation 
+	- Severe pruritis and fatigue are indications
