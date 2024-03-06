@@ -37,3 +37,29 @@
 # Duplex is IOC for
 - Varicose vein
 - DVT
+
+# Basic Anatomy of GIT
+- There are four layers (inner to outer)
+	1. Mucosa 
+		1. Epithelium
+		2. Lamina Propria
+		3. Muscularis Mucosa
+	2. Submucosa
+	3. Muscularis propria
+		1. Inner Longitudinal
+		2. Outer Circular
+	4. Serosa
+- There are two kinds of plexus in GIT
+	- Auerbach plexus
+		- Peristaltic function
+		- Located between inner circular and outer longitudinal
+	- Meissner's plexus
+		- Vilious motility and intestinal secretion
+		- Location between inner circular layer and muscularis mucosa
+> In esophagus there is no serosa, no villi no secretions no **Meissner's plexus**
+> Esophagus has hymphatics in Lamina propria (No other part of GIT has that) 
+> Strongest layer of GIT - Submucosa
+> Catgut is prepared from sheep ileum submucosa
+> Gall bladder is missing muscularis mucosa and submucosa
+> Maximum absorptive capacity - jejunum
+> Maximum absorptive capacity per unit surface area - gall bladder

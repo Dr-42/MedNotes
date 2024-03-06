@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "57cbd65060992e12",
+        "id": "5befaa8d1dd47ec8",
         "type": "tabs",
         "children": [
           {
-            "id": "ec498c66fdad5ec6",
+            "id": "69feff52279162fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surgery/Liver/PortalHypertension.md",
+                "file": "Surgery/Gall Bladder.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surgery/Liver/PortalHypertension.md",
+                "file": "Surgery/Gall Bladder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surgery/Liver/PortalHypertension.md",
+                "file": "Surgery/Gall Bladder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Surgery/Liver/PortalHypertension.md"
+                "file": "Surgery/Gall Bladder.md"
               }
             }
           }
@@ -155,15 +155,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec498c66fdad5ec6",
+  "active": "69feff52279162fc",
   "lastOpenFiles": [
-    "Surgery/Images/TIPSS.jpg",
+    "Surgery/Gall Bladder.md",
+    "Surgery/Images/MercedesBenzSign.jpg",
+    "Surgery/Images/Torrent Search Engine 1337x.to.html",
+    "Surgery/Images/Torrent Search Engine 1337x.to_files/style.css",
+    "Surgery/Images/Torrent Search Engine 1337x.to_files/jquery-ui.css",
+    "Surgery/Images/Torrent Search Engine 1337x.to_files/icons.css",
+    "Surgery/Images/Torrent Search Engine 1337x.to_files/scrollbar.css",
+    "Surgery/Images/Torrent Search Engine 1337x.to_files/jquery-ui.js",
+    "Surgery/Images/Torrent Search Engine 1337x.to_files/jquery-1.11.0.min.js",
+    "Surgery/Images/Torrent Search Engine 1337x.to_files/auto-searchv2.js",
+    "Surgery/Images/Torrent Search Engine 1337x.to_files/logo.svg",
+    "Surgery/Images/Torrent Search Engine 1337x.to_files/main.js",
+    "Surgery/Images/Torrent Search Engine 1337x.to_files",
+    "Surgery/Images/CholesterolGallStones.jpg",
+    "Surgery/Images/CaterpillarTurn.jpg",
+    "Surgery/Liver.md",
     "Misc.md",
+    "Untitled.canvas",
     "Surgery/Liver/PortalHypertension.md",
+    "Surgery/Images/TIPSS.jpg",
     "Surgery/Images/LintonNachlasTube.jpg",
     "Surgery/Images/SengstakenBlakemoreTube.jpg",
     "Surgery/Liver/CouinaudSegments.md",
-    "Surgery/Liver.md",
     "Surgery/Liver/LiverTumors/Mets.md",
     "Surgery/Liver/LiverTumors.md",
     "Surgery/Images/PortalAnastomses.jpg",
@@ -174,34 +190,18 @@
     "Surgery/Lung/Tumors/Mets.md",
     "Surgery/Images/HCCTriplePhaseCT.jpg",
     "Misc/Untitled.md",
-    "Misc",
     "Surgery/Liver/LiverTumors/HepaticAdenoma.md",
     "Surgery/Liver/LiverTumors/FNH.md",
     "Surgery/Liver/LiverTumors/Hemangioma.md",
     "Surgery/Bone/BoneMets.md",
-    "Surgery/Bone",
     "Surgery/Lung/Tumors/Ca Lung.md",
     "Surgery/Skeletal/Bone.md",
     "Surgery/Lung.md",
     "README.md",
-    "LICENSE",
-    "Surgery/Lung/Tumors",
-    "Surgery/Lung",
     "Surgery/Skeletal/Bone/Untitled.md",
-    "Surgery/Skeletal/Bone",
-    "Surgery/Skeletal",
     "Surgery/Liver/HydatidCyst.md",
-    "Surgery/Images/HydatidGhabri.jpg",
-    "Surgery/Images/HydatidPericystectomy.jpg",
-    "Surgery/Images/HydatidEvacNOmentopexy.jpg",
-    "Surgery/Images/HydatidCT.jpg",
-    "Surgery/Images/HydatidUSG.jpg",
     "Surgery/Liver/LiverAbscess.md",
     "2024-03-03.md",
-    "Surgery/Liver 1.md",
-    "Surgery/Liver/LiverTumors",
-    "Surgery/Liver",
-    "Surgery/Images",
-    "Image.md"
+    "Surgery/Liver 1.md"
   ]
 }
