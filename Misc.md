@@ -95,3 +95,17 @@
 - PSC (Primary Sclerosing Cholangitis)
 - Parkinson's Disease
 - Alzheimer's Disease
+
+# Bubble Xrays
+- Single Bubble appearance
+	- Congenital Hypertrophic Pyloric Stenosis
+	- ![[SingleBubbleXray.jpg]]
+- Double Bubble Appearance
+	- Doudenal Atresia
+	- Annular Pancreas
+	- ![[DoubleBubbleXray.jpg]]
+- Triple Bubble Appearance
+	- Jejunal Atresia
+	- ![[TripleBubbleXray.jpg]]
+- Multiple Air-fluid levels
+	- Ileal atresia

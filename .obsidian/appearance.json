@@ -3,7 +3,7 @@
   "theme": "obsidian",
   "cssTheme": "GitHub Theme",
   "baseFontSize": 20,
-  "interfaceFontFamily": "Caladea",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "enabledCssSnippets": [
     "mermaid_diag"
   ]

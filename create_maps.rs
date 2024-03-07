@@ -27,7 +27,7 @@ fn create_maps(path: &Path) {
                     // remove the trailing .md
                     let mapname = &mapname[..mapname.len() - 3];
                     let mapname = format!("maps/{}.html", mapname);
-                    let command_str = format!("markmap --no-open -o \"{:?}\" {:?}", mapname, path);
+                    let command_str = format!("markmap --no-open -o {:?} {:?}", mapname, path);
                     println!("{}", command_str);
                     let status = std::process::Command::new("sh")
                         .arg("-c")
