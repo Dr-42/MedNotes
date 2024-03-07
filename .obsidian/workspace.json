@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "336b77aacbf0069e",
@@ -156,6 +155,8 @@
   },
   "active": "75c573f93caeb323",
   "lastOpenFiles": [
+    "Surgery/Images/ChainofLakes_chronicPancreatitis.jpg",
+    "Surgery/Images/PancreaticCalcifications.jpg",
     "Surgery/Images/Cystogastrostomy.jpg",
     "Surgery/Images/Cystojejunostomy.jpg",
     "Surgery/Images/Screenshot_20240307_215057.jpg",
@@ -168,7 +169,6 @@
     "Surgery/Images/DoubleBubbleXray.jpg",
     "Surgery/Images/SingleBubbleXray.jpg",
     "Surgery/Images/AnnularPancreas.jpg",
-    "Surgery/Images/PancreaticDivisumEmbryo.jpg",
     "Surgery/PancreatoBiliary/Liver/LiverTumors/HCC.md",
     "Surgery/PancreatoBiliary/Liver.md",
     "Surgery.md",
@@ -177,7 +177,6 @@
     "Surgery/PancreatoBiliary/GallBladder.md",
     "Surgery/PancreaticoBiliary/GallBladder.md",
     "Surgery/PancreaticoBiliary",
-    "Surgery/Images/BileDuctInjuryStrasberg.jpg",
     "rust_project.json~",
     "rust_project.json",
     "maps/Surgery_Skeletal_Bone_BoneMets.html",

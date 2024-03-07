@@ -296,3 +296,65 @@ n4 --> n5
 					- Drainage against gravity
 					- Since the drainage is against gravity, food may enter pseudocyst and cause infection (bacterial overgrowth) leading to SUMP
 			- Cysto-duodenostomy
+## Chronic Pancreatitis
+### General
+- Characterised by irreversible fibrosis of pancreatic parenchyma with ongoing inflammation
+	- Exocrine insuffiency
+		- It precedes endocrine insufficiency
+		- > 90% acini permanantly destroyed
+		- Leads to
+			- Indigestion
+			- Malabsorption
+			- Steatorrhea
+	- Endocrine insuffiency
+		- > 90% of islet cells permanently destroyed
+		- Leads to DM
+	- Chronic pain
+- Causes
+	- MC cause - Heavy alcohol consumption
+		- Smoking has synergestic effect
+### Clinical Features
+- MC symptom is Abdominal pain
+- Characterized by triad
+	- **D**iabetes Mellitus
+	- **P**ancreatic Calcification
+		- Calcifications present in 30% to 40% cases
+	- **S**teatorrhoea
+### TIGARO Classification of Etiology
+- **T** - Toxic - Metabolic
+- **I** - Idiopathic
+- **G** - Genetic
+- **A** - Autoimmune
+- **R** - Recurrent severe acute pancreatitis
+- **O** - Obstructive
+### Diagnosis
+- IOC - MRCP
+- Gold standard - ERCP
+- On ERCP
+	- Shows alternate stricture and dilation of pancreatic duct with pancreatic stones enclosing giving <b><u>String of pearls/Chain of lakes/Beaded</b></u> appearance
+		![[ChainofLakes_chronicPancreatitis.jpg]]
+	- Composition of stone - **Ca(CO<sub>3</sub>)<sub>2</sub>
+- Endoscopic USG - Most accurate investigation for diagnosis of minimal change in chronic panreatitis
+- <b><u>ROSEMENT criteria</b></u> is based on endoscopic USG findings
+![[PancreaticCalcifications.jpg]]
+### Management
+- Exocrine insufficiency - Enteric coated pancreatic enzyme supplementation
+- Endocrine insufficiency - Insulin
+- Pain - Analgesics
+	- NSAIDS - Metamizole
+	- Opioids - Buprenorphine
+- If Pain not relieved with analgesics: ERCP stenting/oblique stone removal
+- Pain not relieved with ERCP and stenting: Celiac Ganglion blockade
+- Pain not relieved with Celiac Ganglion Blockade: Surgery
+### Surgery
+- Drainage Procedure
+	- Puestow's procedure
+		- Also called LPJ (Longitudinal Pancreaticojejunostomy)
+		- Opening pancreatic duct and suture with jejunum
+- Resection Procedure
+	- Berger's Procedure
+		- Also called DPPHR - Duodenal preserving pancreatic head resection
+		- After shaving the pancreatic head, suture the body with jejunum
+		- Has maximum pain relief
+	- Frey's Procedure
+		- Also called LRLPJ - Local resection of Pancreatic head with Longitudinal pancreatic jejunostomy
