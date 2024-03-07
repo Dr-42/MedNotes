@@ -315,7 +315,7 @@ st4 --- sol4.2
 	- Isoniazid
 - MC site of cholangiocarnoma is Hilum - **Hilar cholrangiocarcinoma**
 - Also known as Klastin tumor
-- Similaties b/w Cholangiocarcinoma and [GB Carcinoma](Surgery/PancreatoBiliary/Gall%20Bladder#Carcinoma%20Gall%20Bladder)
+- Similaties b/w Cholangiocarcinoma and [GB Carcinoma](GallBladder.md#Carcinoma%20Gall%20Bladder)
 	- Both are Adenocarcinoma
 	- CEA increased (non-specific marker)
 	- CA 19-9 (specific marker)

@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48e537e55f6344f6",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,12 +82,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "336b77aacbf0069e",
@@ -154,9 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "316a7eba4b4f688a",
+  "active": "75c573f93caeb323",
   "lastOpenFiles": [
-    "Surgery/PancreatoBiliary/Gall Bladder.md",
+    "Surgery/PancreatoBiliary/GallBladder.md",
+    "Surgery.md",
+    "Surgery/PancreatoBiliary/Pancreas.md",
     "Surgery/PancreatoBiliary/BileDuct.md",
     "Surgery/PancreatoBiliary/GallBladder.md",
     "Surgery/PancreaticoBiliary/GallBladder.md",
@@ -200,8 +211,6 @@
     "Untitled.canvas",
     "Misc/Untitled.md",
     "Surgery/Bone/BoneMets.md",
-    "Surgery/Skeletal/Bone.md",
-    "Surgery/Lung.md",
-    "README.md"
+    "Surgery/Skeletal/Bone.md"
   ]
 }
