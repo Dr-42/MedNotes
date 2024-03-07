@@ -190,3 +190,209 @@ id4 -- If presence of distal filling defects --> id5
 ### Treatment
 - Liver transplantation 
 	- Severe pruritis and fatigue are indications
+## Primary Sclerosing Cholangitis
+### General
+- MC in males
+- Characterised by multiple strictures in both intrahepatic and extrahepatic ducts
+- Associated with
+	- <b><u>HLA B-8 / DR-3</u></b>
+	- Ulcerative Colitis
+		- 1<sup>o</sup> sclerosing cholangitis (PSC) seen in 5 - 6% cases of UC
+		- UC seen in 70 - 80% cases of PSC
+- [Smoking is protective](Misc.md#Smoking%20is%20protective)
+
+### Pathophysiology
+- Target cell injury in PSC is <u><b>Cholangiocytes</b></u> (Cells lining the bile duct)
+- Strictute formation in both in both intrahepatic and extrahepatic bile duct: Beaded or pseudo diverticular appearance
+- Gives onion skin appearance on cut section
+- Destruction of terminal intra-hepatic branches
+- Gives pruned tree appearance (selective destruction of terminal intrahepatic branches)
+	![[PrimarySclerosingCholangitis.jpg]]
+### Clinical Features
+- Asymptomatic elevation of $\gamma$-Glutamyl transpeptidase (GGT) initially
+- Symptomatic: Formation of multiple strictures leads to
+	- $\uparrow\uparrow$ Risk of cholangitis
+	- CBD stones
+	- Acute pancreatitis
+	- Cholangiocarcinoma
+### Investigations
+- IOC - MRCP
+- Gold standard investigation - ERCP
+	- Characteritic appearance in ERCP
+		- Beaded appearance
+		- Pseudo-diverticula appearance
+		- Prunted tree appearance
+		![[PBC_ERCP.jpg]]
+### Treatment
+- TOC - Liver transplantation
+- Control of inflammation - **High dose UDCA** (Ursodeoxycholic acid)
+- Cholestyramine / cholestipol for pruritis
+
+## Bile Duct Injury
+### General
+- Incidence of BDI in lap cholecystectomy (0.3-0.85%)
+- Incidence of BDi in open cholecystectomy (0.1-0.2%)
+- Triangle of cholecystectomy / Hepatocystic triangle
+	- Borders
+		- Superior : Inferior Liver edge
+		- Medial : Common Hepatic Artery
+		- Lateral : Cystic Duct
+	- Content
+		- Cystic Artery
+	
+### Classification of Bile Duct Injuries
+- Bismuth classification
+![[BileDuctInjuryBismuth.jpg]]
+
+| Type | Description                                                                                         |
+| :--: | --------------------------------------------------------------------------------------------------- |
+|  I   | CHD stump > 2cm<br>Stricture is low                                                                 |
+|  II  | CHD stump < 2cm<br>Stricture                                                                        |
+| III  | Hilar stricture with intact confluence<br>Stricture is high                                         |
+|  IV  | Hilar stricture with destroyed confluence                                                           |
+|  V   | Stricture involving aberrant right sectoral duct with or without involvement of common hepatic duct |
+- Starsberg classification for laproscopic bile duct injuries
+![[BileDuctInjuryStrasberg.jpg]]
+
+| Type | Description                                                       |
+| :--: | ----------------------------------------------------------------- |
+|  A   | Cystic duct stump leak or leak from sub-vescical duct of Luschka  |
+|  B   | Ligation or occlusion of abberant right sectoral duct transection |
+|  C   | Transetion without occlusion of abberant righ sectoral duct       |
+|  D   | Injury to laterall wall of CHD                                    |
+|  E   | E<sub>1</sub> to E<sub>5</sub> is I-V of Bismuth classification   |
+### Clinical Features
+- On GPE
+	- Tachycardia
+		- Indirect evidence of bile leak
+	- Tenderness on RUQ
+### Management of Post-op diagnosed Bile Duct Injury
+```mermaid
+graph LR
+st1(Step1: Control infections)
+st2(Step2: Drain the biloma)
+st3(Step3: Complete cholangiography)
+st4(Step4: Definitive Treatment)
+
+sol1(IV antibiotics)
+sol2.1(USG/CT guided percutaneous aspiration)
+sol2.2(Drain insertion/Digital catheter insertion)
+sol3(MRCP)
+sol4.1(ERCP with stenting)
+sol4.2(Hepatico-jejunostomy)
+
+st1 --> st2
+st2 --> st3
+st3 --> st4
+
+st1 ------ sol1
+st2 ----- sol2.1
+st2 ----- sol2.2
+st3 ---- sol3
+st4 --- sol4.1
+st4 --- sol4.2
+```
+
+## Cholangiocarcinoma
+### General
+- Risk Factors
+	- Chledochal cyst
+	- Choledocholithiasis
+	- PSC
+	- UC
+	- Cirrhosis
+	- _Clonorchis sinensis_ and _Opitsthorchis viverrini_
+	- HBV
+	- HCV
+	- Asbestos
+	- Nitrosamines
+	- Dioxin
+	- DM
+	- Obesity
+	- OCPs
+	- Smoking
+	- Thortrast
+	- Isoniazid
+- MC site of cholangiocarnoma is Hilum - **Hilar cholrangiocarcinoma**
+- Also known as Klastin tumor
+- Similaties b/w Cholangiocarcinoma and [GB Carcinoma](Surgery/PancreatoBiliary/Gall%20Bladder#Carcinoma%20Gall%20Bladder)
+	- Both are Adenocarcinoma
+	- CEA increased (non-specific marker)
+	- CA 19-9 (specific marker)
+	- Chemotherapy regimen - Gemcitabin + Cisplatin
+	- Histological types are also same
+		- Diffuse infiltrative/sclerosing
+			- MC
+			- Worst prognosis
+		- Nodular/Mass forming
+		- Papillary
+			- Best prognosis
+### Clinical Features
+- MC presentation/symptom - Painless progressive jaundice > Weight Loss
+- Symptoms of painless progressive jaundice
+	- Anorexia
+	- Fatigue
+	- Pruritits
+	- Passage of clay colored stools
+### Courvoisier's Law
+- In case of obstructive jaundice due to stone disease, Gall Bladder is not palpable due to the Gall Bladder being shriveled/fibrosed d/t chronic inflammation
+- In a case of obstructive jaundice, if GB is palpable, it is due to Peri-ampullary carcinoma
+- Exceptions
+	- Double impaction of stone
+		- One stone in cystic duct
+		- One in CBD
+	- Mucocele
+	- Oriented cholagiohepatitis (Hepatolithiasis)
+	- Stone impacted at ampulla of Vater
+### Ampullary and Peri-ampullary carcinoma
+- Ampullary malignancy arising from ampulla itself
+- Periampullary malignancy arising withing 2cm of ampulla
+- Malignancies in peri-ampullary area
+	- Ampullary carcinoma
+	- Ca head of pancreas
+		- Worst prognosis
+	- Distal cholangiocarcinoma
+		- GB Palpable
+	- Duodenal cholangiocarcinoma
+		- Best Prognosis
+### Diagnosis
+- IOC : MRI + MRCP > CECT
+- Complications of CECT
+	- $\uparrow$ rist of hepatorenal syndrome
+	- Contrast involved nephropathy
+### Management
+- For hilar cholangiocarcinoma:
+	- CBD resection + Routine caudate + Lymphadenectomy
+- For distal cholangiocarcinoma
+	- Pylorus preserving Whipple's procedure
+- For advanced and metastatic stage
+	- Palliation by chemotherapy
+	- Gemcitabin + Cisplatin
+## Hemobilia
+### General
+- Blood in bile duct
+### Causes
+- MC cause - Iatrogenic trauma (PTC)
+- Trauma (Blunt)
+- Gall stones
+- Vascular pathologies
+	- AV malformations
+	- Angiodysplasia
+- MC source of Hemobilia is arterial source
+### Clinical Features
+- Quinche's Triad/Sand blom's Triad
+	- GI Hemorrhage (upper/lower)
+	- Clot colic
+	- Jaundice
+- Melena (MC symptom)
+	- Seen in 90% cases
+	- Minimal bleeding to cause melena - 40mL to 60mL
+### Investigations
+- Upper GI endoscopy
+	- First investigation done for diagnosis of melena
+	- IOC for Hemobilia - Angiography
+		- Diagnostic and therapeutic
+### Treatment
+- Conservative management - in most patients
+- Angiography + embolization - for rest of the patients
+- If not available/failed - Open surgical ligation of bleeding Vessel

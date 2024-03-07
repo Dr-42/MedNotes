@@ -89,3 +89,9 @@
 | Grave's disease           | LATS (Long acting thyroid stimulator/Thyroid stimulator Ab against TSH-R) |
 | Hashimoto's thyroiditis   | Anti-TPO                                                                  |
 | Pernicious Anemia         | Ab against pareital cells                                                 |
+
+# Smoking is protective
+- UC (Ulcerative Colitis)
+- PSC (Primary Sclerosing Cholangitis)
+- Parkinson's Disease
+- Alzheimer's Disease

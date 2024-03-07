@@ -3,5 +3,8 @@
   "theme": "obsidian",
   "cssTheme": "GitHub Theme",
   "baseFontSize": 20,
-  "interfaceFontFamily": "Caladea"
+  "interfaceFontFamily": "Caladea",
+  "enabledCssSnippets": [
+    "mermaid_diag"
+  ]
 }
