@@ -358,3 +358,86 @@ n4 --> n5
 		- Has maximum pain relief
 	- Frey's Procedure
 		- Also called LRLPJ - Local resection of Pancreatic head with Longitudinal pancreatic jejunostomy
+## Ca Pancreas
+### General
+- MC genetic mutation in Ca Pancreas/Cholangiocarcinoma
+	- K-RAS > p-16
+- MC genetic mutation in [Ca GB](Surgery/PancreatoBiliary/GallBladder#Carcinoma%20Gall%20Bladder)
+	- p53 > K-RAS
+- MC genetic mutation in Ca Stomach
+	- p53 > COX-II
+- MC type - Adenocarcinoma
+- Non-specific tumor marker - CEA
+- Specific tumor marker - CA 19-9
+- Chemotherapy regimen - Gemcitabin
+- MC site of mets - [Liver](Surgery/PancreatoBiliary/Liver/LiverTumors/Mets)
+- MC site for Ca Pancreas - Head > Body > Tail
+- Pathology
+	- It is associated with intense Desmoplastic reation -> Increased fibrosis around the tumor
+### Risk Factors
+- Established
+	- Smoking/tobacco
+	- Hereditary factors (H<sub>3</sub>-AFP)
+	- Hereditarty pancreatitis - AD
+	- HNPCC - AD
+	- Heriditary Breast and Ovarian Ca(BRCA-2) - AD
+- Associated
+	- DM
+	- Obesity
+	- Chronic Pancreatitis
+	- <b><u>Ataxia telangiectasia - AR</b></u>
+	- FAMMM syndrome - AD (Familial atypicall multiple mole melanoma) 
+	- Peutz-Jeghers Syndrome - AD
+		- Maximum risk of malignancy
+### Clinical Features
+- MC symptom - Jaundice > Weight loss
+- Ca head of pancreas - Jaundice > Weight loss
+- Ca body and tail of pancreas - Weight loss
+- Ampullary carcinoma
+	- MC symptom is jaundice
+	- Waxing and waning jaundice with melena (Seen every 2-3 months in $\frac{1}{3}$<sup>rd</sup> cases)
+### Diagnosis
+- IOC - CECT
+- Radiological Signs
+	- Antral Pad Sign
+		![[AntralPadSignCaPancreas.jpg]]
+	- Widening of C loop
+	- Reverse 3 sign of Frostberg
+		![[Reverse3SignofFrostbergCaPancreas.jpg]]
+	- Double Duct Sign
+		![[DoubleDuctSignCaPancreas.jpg]]
+- Other signs in Ca Pancreas
+	- Rose thorn appearance
+	- Mucosal irregularity
+	- Scrambled egg appearance
+### Management
+- Ca Body and Tail of Pancreas - Distal pancreatectomy
+- Benign tumor in head of Pancreas - Enucleation
+- Ca head of Pancreas
+	- Whipple's procedure - Pancreaticoduodenectomy
+		- Anastomoses
+			- 1<sup>st</sup> anastomosis: Pancreatico-jejunostomy
+			- 2<sup>nd</sup> anastomosis: Hepatico-jejunostomy
+			- 3<sup>rd</sup> anastomosis: Gastro-jejunostomy
+		- Performed in anticlockwise fashion
+			![[Whipples.jpg]]
+	- Longmire traverso procedure - Pylorus preserving Whipple's
+		- 1<sup>st</sup> anastomosis: Pancreatico-jejunostomy
+		- 2<sup>nd</sup> anastomosis: Hepatico-jejunostomy
+		- 3<sup>rd</sup> anastomosis: Duodeno-jejunostomy
+			![[LongwireTraverso.jpg]]
+- For advanced/metastatic stage - Gemcitabine
+#### Complications
+- MC site of anastomotic leak : PJ > GJ > HJ
+- MC complication of Pancreaticoduodenectomy - Delayed gastric emptying
+- MC cause of death after Pancreaticoduodenectomy - Cardio-pulmonary complications
+- Most important predictor of survival - Ro resection
+	- Types of resections
+		- R0 resection - negative margin
+		- R1 resection - microscopic positive margin
+		- R2 resection - macroscopic positive margin
+	- Most important margin - Uncinate margin/Retroperitoneal margin/SMV margin
+- Survival in Ca Pancreas
+	- Stage I and II - 16-20 months
+	- Stage III - 6-10 months
+	- Stage IV - 3-6 months
