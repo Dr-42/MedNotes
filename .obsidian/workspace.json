@@ -73,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "336b77aacbf0069e",
@@ -136,8 +138,17 @@
                 "file": "Surgery/PancreatoBiliary/Pancreas.md"
               }
             }
+          },
+          {
+            "id": "bd8e03abbff43d28",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -155,23 +166,23 @@
   },
   "active": "75c573f93caeb323",
   "lastOpenFiles": [
+    "Surgery/Images/IPNMEndoscopy.jpg",
+    "Surgery/Images/SerousCystAdenomaPancreas.jpg",
+    "Surgery/PancreatoBiliary/Liver/LiverTumors/Mets.md",
+    "Surgery/PancreatoBiliary/Pancreas.md",
+    "Surgery/PancreatoBiliary/Liver/LiverTumors/HCC.md",
+    "Surgery/Images/PassarosTriangle.jpg",
     "Surgery/Images/LongwireTraverso.jpg",
     "Surgery/Images/Whipples.jpg",
     "Surgery/Images/DoubleDuctSignCaPancreas.jpg",
     "Surgery/Images/Reverse3SignofFrostbergCaPancreas.jpg",
     "Surgery/Images/AntralPadSignCaPancreas.jpg",
-    "Surgery/PancreatoBiliary/Liver/LiverTumors/Mets.md",
-    "Surgery/PancreatoBiliary/Pancreas.md",
     "Surgery/PancreatoBiliary/GallBladder.md",
     "Surgery/Images/ChainofLakes_chronicPancreatitis.jpg",
     "Surgery/Images/PancreaticCalcifications.jpg",
     "Surgery/Images/Cystogastrostomy.jpg",
-    "Surgery/Images/Cystojejunostomy.jpg",
-    "Surgery/Images/Screenshot_20240307_215057.jpg",
-    "Surgery/Images/EcchymoticSignsAcutePancreatitis.jpg",
     "create_maps.rs~",
     "Misc.md",
-    "Surgery/PancreatoBiliary/Liver/LiverTumors/HCC.md",
     "Surgery/PancreatoBiliary/Liver.md",
     "Surgery.md",
     "Surgery/PancreatoBiliary/BileDuct.md",

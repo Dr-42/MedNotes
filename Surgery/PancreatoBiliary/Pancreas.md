@@ -1,5 +1,6 @@
 # Pancreas
 
+# Pancreas
 ## Pancreatic Divisum
 ### General
 - MC congenital anomaly of pancreas
@@ -441,3 +442,184 @@ n4 --> n5
 	- Stage I and II - 16-20 months
 	- Stage III - 6-10 months
 	- Stage IV - 3-6 months
+## Neuroendocrine Tumors (NET) of Pancreas
+### General
+- MC NET of Pancreas - Non-functional (PPOMA)
+- MC functional NET of Pancreas - Insulinoma
+- MC functional and malignant NET of Pancreas - Gastrinoma
+- NET are symptomatic because of production of active substances
+	- Symptomatic at early stage
+	- Diagnosed at early stage
+- Treated at early stage
+	- Better prognosis than Adenocarcinoma
+- Diagnosis
+	- Diagnosed by measuring active substances or it's product
+- IOC for localizing NET : 
+	- <u><b>SRS (Somatostatin receptor scintigraphy)</u></b>
+	- All NET express Somatostatin receptors except <u><b>Insulinoma</b></u>
+	- MC site of Mets [Liver](Surgery/PancreatoBiliary/Liver/LiverTumors/Mets)
+### Insulinoma
+#### General
+- Mostly Benign
+- MC site - Head == Body == Tail (equally distributed)
+- In 5% cases it is associated with MEN-1
+#### Clinical Features
+- Characterised by **Whipple's Triad**
+	- Symptoms of Hypoglycemia
+	- Blood glucose (45-50 mg/dL)
+	- Improvement in symptoms after taking oral glucose
+- Neuroglycopenic symptoms
+	- Dizziness
+	- Headache
+	- Confusion
+	- Coma
+- Sympathetic overactivity leading to
+	- Tachycardia
+	- Palpitation
+	- Excessive sweating
+	- Tremors
+- Painless condition associated with weight gain
+
+#### Diagnosis
+- Gold standard investigation : 72 hrs fasting
+	- Insulin/Glucode(ratio) > 0.4 is diagnostic
+- Best pre-op test for localization - Intra arterial Ca<sup>2+</sup> injection with portal venous blood sampling
+- Overall best invetigation for localization 
+	- EUS with "Inta-op palpation"
+#### Management
+- For preoperative preparation
+	- Diazoxide
+- For Body and Tail tumor - Distal Pancreatectomy
+- For Head tumor - Enucleation
+
+### Gastrinoma / Zollinger Ellison Syndrome
+#### General
+- MC funtional and malignant NET of pancreas
+- MC site - Duodenum > pancreas
+	- In duodenum mc site is 1<sup>st</sup> part > 2<sup>nd</sup> part > 3<sup>rd</sup> part (4<sup>th</sup> part not involved)
+- 75% sporadic and 25% associated with MEN-1
+- 90% of gastrinoma are present in Passaro's triangle/Gastrinoma triangle
+	- Boundaries of Passaro's triangle
+		- Junction of Cystic duct and CBD
+		- Junction of 2<sup>nd</sup> and 3<sup>rd</sup> part of duodenum
+		- Junction of neck and body of pancreas
+	![[PassarosTriangle.jpg]]
+#### Clinical Features
+- MC Symptom - Abdominal Pain
+- Other symptoms include
+	- Retrosternal heartburn
+	- Dyspepsia
+	- Diarrhoea (acid included)
+		- Nasogastric aspiration halts acid induced diarrhoea
+	- Has large ulcers/multiple ulcers/jejunal ulcers/refractory ulcers
+#### Diagnosis
+- Gastrin > 1000 pg/mL is diagnostic
+- Basal Acid Output (BAO) > 15 mEq/hr is also diagnostic
+- Best provocative test - Secretin Stimulation Test (Release of gastrin > 200 pg/mL)
+- IOC for localization - SRS
+#### Management
+- DOC - PPIs
+- TOC - Pylorus preserving Whipple's procedure
+
+### Glucagonoma/Hyperglycemic Cutaneous Syndrome
+#### Clinical Features
+- Diabetes mellitus
+- Dermatitis-Necrolytica Erythema Migrans (MC symptom)
+- DVT
+- Depression
+- MC tumor site - Body and tail of pancreas
+#### Diagnosis
+- IOC - $\uparrow\uparrow$ Glucagon levels
+- IOC for localization - SRS
+#### Treatment
+- Distal pancreatectomy
+
+### VIPOMA
+#### General
+- ALso called 
+	- Verner Morrison Syndrome
+	- Pancreatic Cholera
+	- WDHA Syndrome
+		- Watery Diarrhoea (4-6Litres)
+			- $\downarrow$ Na<sup>+</sup>, $\downarrow$ Cl<sup>-</sup>, $\downarrow$ K<sup>+</sup>,$\downarrow$ HCO<sub>3</sub><sup>-</sup>,
+			- $\uparrow$ RBS, $\uparrow$ Ca<sup>2+</sup> (Hyperglycemia + Hypercalcemia)
+			- Hyperkalemia
+			- Achlorhydria
+	- MC site - Tail
+	- It is a medical emergency
+#### Diagnosis
+- Dx is based on VIP(Vasoactive Intestinal Peptide) levels
+- IOC for localization - SRS
+#### Management
+- Fluid resustitation + Correction of Dyselectrolytemia
+- TOC - Distal Pancreatectomy
+
+## Cystic neoplasms of Pancreas
+- MC cystic leasion of Pancreas - Pseudocyst(75%)
+- MC cystic neoplasm of pancreas - Mucinous cystic Neoplasm
+### Serous Cyst Neoplasm/Adenoma
+#### General
+- Benign 
+- MC site - Head of Pancreas
+- MC seen in females (5<sup>th</sup> - 6<sup>th</sup> decade)
+- Pathological features
+	- Individual cyst in SCN is
+		- Microcystic
+		- Spongelike/Homeycomb appearance
+#### Clinical Features
+- Most patients are asymptomatic
+- In symptomatic patients
+	- Vague abdominal pain
+#### Diagnosis
+- IOC - CECT
+	- Central stellate scar
+	- Central sunburst calcification
+	![[SerousCystAdenomaPancreas.jpg]]
+#### Treatment
+- Observation
+- Resection indicated if
+	- Diagnostic uncertainty
+	- Symptomatic
+	- Size > 4cm
+- On aspiration of cyst content
+	- Content - Serous
+	- CEA $\downarrow$
+	- Amylase $\downarrow$
+
+### Mucinous Cyst Neoplasm/Adenoma
+- MC Cystic Neoplasm of pancreas
+- In is a <u><b>Pre-malignant</b></u> condition
+- MC seen in females (5<sup>th</sup> - 6<sup>th</sup> decade)
+- MC site - Body & tail of Pancreas
+- Macrocystic
+- Diagnosis
+	- IOC - CECT
+		- Shows Peripheral Egg shell calcification
+- Treatment
+	- Surgical Resection of Tumor in all cases
+	- On aspiration of cyst content
+		- Content - Mucinous
+		- CEA $\uparrow$
+		- Amylase $\downarrow$
+### IPNM - Intraductal Papillary Mucinous Neoplasm
+#### General
+- Pre-malignant
+- Common in both males and females (6<sup>th</sup> - 7<sup>th</sup> decade)
+- MC site - Head and uncinate process
+#### Types
+- Main duct variety
+- Side branch variety
+- Mixed variety
+#### Clinical Features
+- Recurrent attack of acute Pancreatitis
+- Abdominal pain
+#### Diagnosis
+- IOC - Endoscopy
+- On endoscopy - Mucin extruding through large fish mouth opening (ampulla)
+	![[IPNMEndoscopy.jpg]]
+#### Treatment
+- Partial pancreatectomy
+- On aspiration of cyst content
+	- Content - Mucinous
+	- CEA $\uparrow$
+	- Amylase $\uparrow$
