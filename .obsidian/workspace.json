@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surgery/GIT/Esophagus.md",
+                "file": "Surgery/Trauma/Trauma ATLS Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "336b77aacbf0069e",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surgery/GIT/Esophagus.md",
+                "file": "Surgery/Trauma/Trauma ATLS Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surgery/GIT/Esophagus.md",
+                "file": "Surgery/Trauma/Trauma ATLS Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Surgery/GIT/Esophagus.md"
+                "file": "Surgery/Trauma/Trauma ATLS Protocol.md"
               }
             }
           },
@@ -164,11 +164,15 @@
   },
   "active": "34a16e48dfe87589",
   "lastOpenFiles": [
+    "Surgery.md",
+    "Surgery/GIT/Esophagus.md",
+    "Surgery/Trauma/Trauma ATLS Protocol.md",
+    "Surgery/Images/TriageColorCodesPriority.jpg",
+    "Surgery/Trauma",
+    "Untitled",
     "Surgery/Images/HiatusHernia.jpg",
     "Surgery/Images/Screenshot_20240307_215057.jpg",
     "Surgery/Images/CoinInEsophagus.jpg",
-    "Surgery/GIT/Esophagus.md",
-    "Surgery.md",
     "Surgery/PancreatoBiliary/Pancreas.md",
     "Surgery/GIT",
     "create_maps",
@@ -184,8 +188,6 @@
     "Surgery/Images/LongwireTraverso.jpg",
     "Surgery/Images/Whipples.jpg",
     "Surgery/Images/DoubleDuctSignCaPancreas.jpg",
-    "Surgery/Images/Reverse3SignofFrostbergCaPancreas.jpg",
-    "Surgery/Images/AntralPadSignCaPancreas.jpg",
     "Surgery/PancreatoBiliary/GallBladder.md",
     "create_maps.rs~",
     "Misc.md",
@@ -193,8 +195,6 @@
     "Surgery/PancreatoBiliary/BileDuct.md",
     "Surgery/PancreaticoBiliary/GallBladder.md",
     "Surgery/PancreaticoBiliary",
-    "rust_project.json~",
-    "rust_project.json",
     "Surgery/Lung/Tumors/Mets.md",
     "Surgery/Lung/Tumors/Ca Lung.md",
     "Surgery/Skeletal/Bone/BoneMets.md",
@@ -209,7 +209,6 @@
     "Surgery/PancreatoBiliary/Liver/LiverTumors/FNH.md",
     "Surgery/Gall Bladder.md",
     "Untitled.canvas",
-    "Misc/Untitled.md",
-    "Surgery/Bone/BoneMets.md"
+    "Misc/Untitled.md"
   ]
 }
