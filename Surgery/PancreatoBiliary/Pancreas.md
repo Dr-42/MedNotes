@@ -1,6 +1,4 @@
 # Pancreas
-
-# Pancreas
 ## Pancreatic Divisum
 ### General
 - MC congenital anomaly of pancreas

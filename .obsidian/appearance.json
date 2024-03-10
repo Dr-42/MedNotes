@@ -2,9 +2,13 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "GitHub Theme",
-  "baseFontSize": 20,
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSize": 23,
+  "interfaceFontFamily": "Caladea",
   "enabledCssSnippets": [
     "mermaid_diag"
-  ]
+  ],
+  "textFontFamily": "Helvetica Neue",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSizeAction": true,
+  "nativeMenus": true
 }
