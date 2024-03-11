@@ -1,12 +1,12 @@
 {
   "debug": false,
-  "convertRules": "# My quick hacks\n'1st|' -> '1<sup>st</sup>|'\n'2nd |' -> '2<sup>nd</sup> |'\n'3rd |' -> '3<sup>rd</sup> |'\n'4th |' -> '4<sup>th</sup> |'\n'5th |' -> '5<sup>th</sup> |'\n'6th |' -> '6<sup>th</sup> |'\n'7th |' -> '7<sup>th</sup> |'\n'8th |' -> '8<sup>th</sup> |'\n'9th |' -> '9<sup>th</sup> |'\n'0th |' -> '0<sup>th</sup> |'\n'11th |' -> '11<sup>th</sup> |'\n'12th |' -> '12<sup>th</sup> |'\n'13th |' -> '13<sup>th</sup> |'\n\n'<= |' -> '≤ |'\n'>= |' -> '≥ |'\n'\\ua |' -> '$\\uparrow$ |'\n'\\da |' -> '$\\downarrow$ |'\n'\\udr |' -> '<u>|</u>'\n'O2 |' -> 'O<sub>2</sub> |'\n'-> |' -> ' $\\rightarrow$ |'\n'<- |' -> ' $\\leftarrow$ |'\n'\\deg |' -> '<sup>o</sup> |'",
+  "convertRules": "# My quick hacks\n'1st |' -> '1<sup>st</sup> |'\n'2nd |' -> '2<sup>nd</sup> |'\n'3rd |' -> '3<sup>rd</sup> |'\n'4th |' -> '4<sup>th</sup> |'\n'5th |' -> '5<sup>th</sup> |'\n'6th |' -> '6<sup>th</sup> |'\n'7th |' -> '7<sup>th</sup> |'\n'8th |' -> '8<sup>th</sup> |'\n'9th |' -> '9<sup>th</sup> |'\n'0th |' -> '0<sup>th</sup> |'\n'11th |' -> '11<sup>th</sup> |'\n'12th |' -> '12<sup>th</sup> |'\n'13th |' -> '13<sup>th</sup> |'\n\n'<= |' -> '≤ |'\n'>= |' -> '≥ |'\n'\\ua |' -> '$\\uparrow$ |'\n'\\da |' -> '$\\downarrow$ |'\n'\\udr |' -> '<u>|</u>'\n'O2 |' -> 'O<sub>2</sub> |'\n'-> |' -> ' $\\rightarrow$ |'\n'<- |' -> ' $\\leftarrow$ |'\n'\\deg |' -> '<sup>o</sup> |'",
   "zoneIndicatorOn": false,
   "autoFormatOn": false,
   "profiles": [
     {
       "title": "global",
-      "content": "# My quick hacks\n'1st|' -> '1<sup>st</sup>|'\n'2nd |' -> '2<sup>nd</sup> |'\n'3rd |' -> '3<sup>rd</sup> |'\n'4th |' -> '4<sup>th</sup> |'\n'5th |' -> '5<sup>th</sup> |'\n'6th |' -> '6<sup>th</sup> |'\n'7th |' -> '7<sup>th</sup> |'\n'8th |' -> '8<sup>th</sup> |'\n'9th |' -> '9<sup>th</sup> |'\n'0th |' -> '0<sup>th</sup> |'\n'11th |' -> '11<sup>th</sup> |'\n'12th |' -> '12<sup>th</sup> |'\n'13th |' -> '13<sup>th</sup> |'\n\n'<= |' -> '≤ |'\n'>= |' -> '≥ |'\n'\\ua |' -> '$\\uparrow$ |'\n'\\da |' -> '$\\downarrow$ |'\n'\\udr |' -> '<u>|</u>'\n'O2 |' -> 'O<sub>2</sub> |'\n'-> |' -> ' $\\rightarrow$ |'\n'<- |' -> ' $\\leftarrow$ |'\n'\\deg |' -> '<sup>o</sup> |'"
+      "content": "# My quick hacks\n'1st |' -> '1<sup>st</sup> |'\n'2nd |' -> '2<sup>nd</sup> |'\n'3rd |' -> '3<sup>rd</sup> |'\n'4th |' -> '4<sup>th</sup> |'\n'5th |' -> '5<sup>th</sup> |'\n'6th |' -> '6<sup>th</sup> |'\n'7th |' -> '7<sup>th</sup> |'\n'8th |' -> '8<sup>th</sup> |'\n'9th |' -> '9<sup>th</sup> |'\n'0th |' -> '0<sup>th</sup> |'\n'11th |' -> '11<sup>th</sup> |'\n'12th |' -> '12<sup>th</sup> |'\n'13th |' -> '13<sup>th</sup> |'\n\n'<= |' -> '≤ |'\n'>= |' -> '≥ |'\n'\\ua |' -> '$\\uparrow$ |'\n'\\da |' -> '$\\downarrow$ |'\n'\\udr |' -> '<u>|</u>'\n'O2 |' -> 'O<sub>2</sub> |'\n'-> |' -> ' $\\rightarrow$ |'\n'<- |' -> ' $\\leftarrow$ |'\n'\\deg |' -> '<sup>o</sup> |'"
     }
   ],
   "activeProfile": "global"

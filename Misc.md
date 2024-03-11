@@ -1,18 +1,19 @@
-# Valveless Veins
+# Misc
+## Valveless Veins
 1. Inferior Vena Cava
 2. Portal Vein
 3. Superior Vena Cava
 4. Batson Plexus
 5. Dural Venous Sinuses
 
-# Significant Weight Loss
+## Significant Weight Loss
 - Any of the following
 	- 5% weight loss in 1 month
 	- 10% weight loss in 6 months
 	- 20% weight loss in 1 year
 - Provided there was no active effort in weight loss
 
-# Common Chemotherapy Drugs
+## Common Chemotherapy Drugs
 - Imatinib
 	- DOC for GIST and CML
 	- 1<sup>st</sup> line agent for DFSP
@@ -29,16 +30,16 @@
 - Geftinib
 	- Used for **adenocarcinoma lung** in non-smoker females
 
-# Doppler is IOC for
+## Doppler is IOC for
 - POrtal HTN
 - Tersticular torsion
 - Varicocele
 
-# Duplex is IOC for
+## Duplex is IOC for
 - Varicose vein
 - DVT
 
-# Basic Anatomy of GIT
+## Basic Anatomy of GIT
 - There are four layers (inner to outer)
 	1. Mucosa 
 		1. Epithelium
@@ -64,7 +65,7 @@
 > Maximum absorptive capacity - jejunum
 > Maximum absorptive capacity per unit surface area - gall bladder
 
-# MRCP
+## MRCP
 - T2 phase of MRI
 	- Fast moving fluid
 		- Gives no signal
@@ -81,7 +82,7 @@
 	- Primary sclerosing cholangitis
 	- Pancreatic divisum
 	- Chronic Pancreatitis
-# Important autoantibodies
+## Important autoantibodies
 
 | Disorder                  | Antibody                                                                  |
 | :------------------------ | ------------------------------------------------------------------------- |
@@ -90,13 +91,13 @@
 | Hashimoto's thyroiditis   | Anti-TPO                                                                  |
 | Pernicious Anemia         | Ab against pareital cells                                                 |
 
-# Smoking is protective
+## Smoking is protective
 - UC (Ulcerative Colitis)
 - PSC (Primary Sclerosing Cholangitis)
 - Parkinson's Disease
 - Alzheimer's Disease
 
-# Bubble Xrays
+## Bubble Xrays
 - Single Bubble appearance
 	- Congenital Hypertrophic Pyloric Stenosis
 	- ![[SingleBubbleXray.jpg]]
@@ -109,3 +110,11 @@
 	- ![[TripleBubbleXray.jpg]]
 - Multiple Air-fluid levels
 	- Ileal atresia
+## Ideal time of drain removal
+| Case                   | Time                        |
+| ---------------------- | --------------------------- |
+| Thyroidectomy          | After 24 hrs                |
+| ICD                    | When output <200mL in 24hrs |
+| Mastectomy             | After 5 days                |
+| Colorectal anastomosis | After 7 days                |
+| T-tube                 | After 7-10 days             |

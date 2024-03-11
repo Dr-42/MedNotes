@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53e486fc970e69f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -77,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "336b77aacbf0069e",
@@ -163,13 +176,19 @@
   },
   "active": "34a16e48dfe87589",
   "lastOpenFiles": [
+    "Surgery/Images/ICD.jpg",
+    "Misc.md",
+    "Surgery/Trauma/ThoracicInjury.md",
+    "Surgery/Images/CardiacTamponadeCXR.jpg",
+    "Surgery/Images/TriangleOfSafety.jpg",
+    "Surgery/Images/HemothoraxCXR.jpg",
+    "Surgery/Images/NeckInjuryZones.jpg",
     "Surgery.md",
     "Surgery/Trauma/TraumaATLSProtocol.md",
     "Surgery/GIT/Esophagus.md",
     "Surgery/PancreatoBiliary/BileDuct.md",
     "Surgery/PancreatoBiliary/GallBladder.md",
     "Surgery/PancreatoBiliary/Pancreas.md",
-    "Surgery/Trauma/ThoracicInjury.md",
     "Surgery/Trauma/HeadInjury.md",
     "Surgery/Images/SDHNCCT.jpg",
     "Surgery/Images/EDHNCCT.jpg",
@@ -187,13 +206,8 @@
     "Surgery/Images/BattleSignAndHemotympanum.jpg",
     "Surgery/Images/DoubleTargetCSFRhinorrhoes.jpg",
     "Surgery/Images/SkullBaseFractures.jpg",
-    "Surgery/Images/DepressedSkullFracture.jpg",
-    "Surgery/Images/Scalp.jpg",
-    "Surgery/Images/TriageColorCodesPriority.jpg",
-    "Surgery/Images/HiatusHernia.jpg",
     "Surgery/PancreatoBiliary/Liver/LiverTumors/Mets.md",
     "Surgery/PancreatoBiliary/Liver/LiverTumors/HCC.md",
-    "Misc.md",
     "Surgery/PancreatoBiliary/Liver.md",
     "Surgery/PancreaticoBiliary/GallBladder.md",
     "Surgery/Lung/Tumors/Mets.md",
@@ -208,7 +222,6 @@
     "Surgery/PancreatoBiliary/Liver/LiverTumors/HepaticAdenoma.md",
     "Surgery/PancreatoBiliary/Liver/LiverTumors/Hemangioma.md",
     "Surgery/PancreatoBiliary/Liver/LiverTumors/FNH.md",
-    "Surgery/Gall Bladder.md",
     "Untitled.canvas"
   ]
 }
