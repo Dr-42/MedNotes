@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surgery/Trauma/Head Injury.md",
+                "file": "Surgery/Trauma/ThoracicInjury.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "336b77aacbf0069e",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surgery/Trauma/Head Injury.md",
+                "file": "Surgery/Trauma/ThoracicInjury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surgery/Trauma/Head Injury.md",
+                "file": "Surgery/Trauma/ThoracicInjury.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Surgery/Trauma/Head Injury.md"
+                "file": "Surgery/Trauma/ThoracicInjury.md"
               }
             }
           },
@@ -164,6 +163,14 @@
   },
   "active": "34a16e48dfe87589",
   "lastOpenFiles": [
+    "Surgery.md",
+    "Surgery/Trauma/TraumaATLSProtocol.md",
+    "Surgery/GIT/Esophagus.md",
+    "Surgery/PancreatoBiliary/BileDuct.md",
+    "Surgery/PancreatoBiliary/GallBladder.md",
+    "Surgery/PancreatoBiliary/Pancreas.md",
+    "Surgery/Trauma/ThoracicInjury.md",
+    "Surgery/Trauma/HeadInjury.md",
     "Surgery/Images/SDHNCCT.jpg",
     "Surgery/Images/EDHNCCT.jpg",
     "Surgery/Images/Meninges.jpg",
@@ -182,20 +189,12 @@
     "Surgery/Images/SkullBaseFractures.jpg",
     "Surgery/Images/DepressedSkullFracture.jpg",
     "Surgery/Images/Scalp.jpg",
-    "Surgery/Trauma/Trauma ATLS Protocol.md",
-    "Surgery/Trauma/Head Injury.md",
-    "Surgery/PancreatoBiliary/GallBladder.md",
-    "Surgery.md",
-    "Surgery/GIT/Esophagus.md",
     "Surgery/Images/TriageColorCodesPriority.jpg",
     "Surgery/Images/HiatusHernia.jpg",
-    "Surgery/Images/Screenshot_20240307_215057.jpg",
-    "Surgery/PancreatoBiliary/Pancreas.md",
     "Surgery/PancreatoBiliary/Liver/LiverTumors/Mets.md",
     "Surgery/PancreatoBiliary/Liver/LiverTumors/HCC.md",
     "Misc.md",
     "Surgery/PancreatoBiliary/Liver.md",
-    "Surgery/PancreatoBiliary/BileDuct.md",
     "Surgery/PancreaticoBiliary/GallBladder.md",
     "Surgery/Lung/Tumors/Mets.md",
     "Surgery/Lung/Tumors/Ca Lung.md",
