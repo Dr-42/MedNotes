@@ -34,18 +34,39 @@
         "a": 1,
         "rgb": 11206906
       }
+    },
+    {
+      "query": "path:Surgery/GIT  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Surgery/Trauma  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Surgery/PancreatoBiliary  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.4,
-  "nodeSizeMultiplier": 0.838565488565489,
-  "lineSizeMultiplier": 3.16122661122661,
+  "nodeSizeMultiplier": 1.22567567567568,
+  "lineSizeMultiplier": 3.20197505197505,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.5,
+  "repelStrength": 14.989604989605,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "linkDistance": 290,
+  "scale": 0.6666666666666666,
   "close": false
 }

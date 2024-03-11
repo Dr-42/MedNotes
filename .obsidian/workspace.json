@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surgery/Trauma/Trauma ATLS Protocol.md",
+                "file": "Surgery/Trauma/Head Injury.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "336b77aacbf0069e",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surgery/Trauma/Trauma ATLS Protocol.md",
+                "file": "Surgery/Trauma/Head Injury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surgery/Trauma/Trauma ATLS Protocol.md",
+                "file": "Surgery/Trauma/Head Injury.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Surgery/Trauma/Trauma ATLS Protocol.md"
+                "file": "Surgery/Trauma/Head Injury.md"
               }
             }
           },
@@ -164,37 +164,39 @@
   },
   "active": "34a16e48dfe87589",
   "lastOpenFiles": [
+    "Surgery/Images/SDHNCCT.jpg",
+    "Surgery/Images/EDHNCCT.jpg",
+    "Surgery/Images/Meninges.jpg",
+    "create_maps.rs",
+    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-6kpq16boilasvdju9d8wlawb9/work-products.bin",
+    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-6kpq16boilasvdju9d8wlawb9/query-cache.bin",
+    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-6kpq16boilasvdju9d8wlawb9/dep-graph.bin",
+    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-6kpq16boilasvdju9d8wlawb9",
+    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-working/work-products.bin",
+    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-working/query-cache.bin",
+    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-working/dep-graph.part.bin",
+    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-working/dep-graph.bin",
+    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-working",
+    "Surgery/Images/BattleSignAndHemotympanum.jpg",
+    "Surgery/Images/DoubleTargetCSFRhinorrhoes.jpg",
+    "Surgery/Images/SkullBaseFractures.jpg",
+    "Surgery/Images/DepressedSkullFracture.jpg",
+    "Surgery/Images/Scalp.jpg",
+    "Surgery/Trauma/Trauma ATLS Protocol.md",
+    "Surgery/Trauma/Head Injury.md",
+    "Surgery/PancreatoBiliary/GallBladder.md",
     "Surgery.md",
     "Surgery/GIT/Esophagus.md",
-    "Surgery/Trauma/Trauma ATLS Protocol.md",
     "Surgery/Images/TriageColorCodesPriority.jpg",
-    "Surgery/Trauma",
-    "Untitled",
     "Surgery/Images/HiatusHernia.jpg",
     "Surgery/Images/Screenshot_20240307_215057.jpg",
-    "Surgery/Images/CoinInEsophagus.jpg",
     "Surgery/PancreatoBiliary/Pancreas.md",
-    "Surgery/GIT",
-    "create_maps",
-    "create_maps.create_maps.454d54af2e42515-cgu.1.rcgu.o",
-    "create_maps.create_maps.454d54af2e42515-cgu.2.rcgu.o",
-    "create_maps.create_maps.454d54af2e42515-cgu.0.rcgu.o",
-    "create_maps.1c7w189yy739h8a5.rcgu.o",
-    "Surgery/Images/IPNMEndoscopy.jpg",
-    "Surgery/Images/SerousCystAdenomaPancreas.jpg",
     "Surgery/PancreatoBiliary/Liver/LiverTumors/Mets.md",
     "Surgery/PancreatoBiliary/Liver/LiverTumors/HCC.md",
-    "Surgery/Images/PassarosTriangle.jpg",
-    "Surgery/Images/LongwireTraverso.jpg",
-    "Surgery/Images/Whipples.jpg",
-    "Surgery/Images/DoubleDuctSignCaPancreas.jpg",
-    "Surgery/PancreatoBiliary/GallBladder.md",
-    "create_maps.rs~",
     "Misc.md",
     "Surgery/PancreatoBiliary/Liver.md",
     "Surgery/PancreatoBiliary/BileDuct.md",
     "Surgery/PancreaticoBiliary/GallBladder.md",
-    "Surgery/PancreaticoBiliary",
     "Surgery/Lung/Tumors/Mets.md",
     "Surgery/Lung/Tumors/Ca Lung.md",
     "Surgery/Skeletal/Bone/BoneMets.md",
@@ -208,7 +210,6 @@
     "Surgery/PancreatoBiliary/Liver/LiverTumors/Hemangioma.md",
     "Surgery/PancreatoBiliary/Liver/LiverTumors/FNH.md",
     "Surgery/Gall Bladder.md",
-    "Untitled.canvas",
-    "Misc/Untitled.md"
+    "Untitled.canvas"
   ]
 }
