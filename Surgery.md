@@ -9,3 +9,4 @@
 	1. [ATLS Protocol](Surgery/Trauma/TraumaATLSProtocol)
 	2. [Head Injury](Surgery/Trauma/HeadInjury)
 	3. [Thoracic Injury](Surgery/Trauma/ThoracicInjury)
+	4. [Abdominal Trauma](Surgery/Trauma/AbdominalTrauma)
