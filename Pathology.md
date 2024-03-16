@@ -1,2 +1,2 @@
 1. Genetics
-	1. Single Gene Disorders
+	1. [Single Gene Disorders](Pathology/Genetics/SingleGeneDisorders)

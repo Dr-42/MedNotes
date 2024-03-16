@@ -44,14 +44,15 @@
 - Enzymatic proteins affected
 - $\uparrow$ in consanguinous marriages
 ### Conditions of AR inheritance
-- Inborn errors of Metabolism
 - Friedrich's Ataxia
+- Inborn errors of Metabolism
 - Sickle cell anemia
 - Thalassemia
 - Wilson's Disease
 - Hemochromatosis
 - Homocystinuria
 - Alkaptonuria
+> FIST WHAm
 
 ## Sex linked inheritance
 ### General
