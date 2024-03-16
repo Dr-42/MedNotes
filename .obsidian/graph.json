@@ -55,13 +55,20 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:Pathology/Genetics  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 1.22567567567568,
-  "lineSizeMultiplier": 3.20197505197505,
+  "lineSizeMultiplier": 3.28347193347193,
   "collapse-forces": false,
   "centerStrength": 0.5,
   "repelStrength": 14.989604989605,

@@ -1,5 +1,6 @@
 1. Genetics
-	1. [Single Gene Disorders](Pathology/Genetics/SingleGeneDisorders)
-	2. [NonClassicalInheritanceDisorders](Pathology/Genetics/NonClassicalInheritanceDisorders.md)
-	3. [SingleGeneDisorders](Pathology/Genetics/SingleGeneDisorders.md)
-	4. [SpecificCytogeneticDisorders](Pathology/Genetics/SpecificCytogeneticDisorders.md)
+	1. [Basics](Pathology/Genetics/Basics.md)
+	2. [Single Gene Disorders](Pathology/Genetics/SingleGeneDisorders)
+	3. [NonClassicalInheritanceDisorders](Pathology/Genetics/NonClassicalInheritanceDisorders.md)
+	4. [SingleGeneDisorders](Pathology/Genetics/SingleGeneDisorders.md)
+	5. [SpecificCytogeneticDisorders](Pathology/Genetics/SpecificCytogeneticDisorders.md)
