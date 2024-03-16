@@ -149,6 +149,49 @@
 	- Intra-abdominal length of LES < 1 cm
 	- LES pressure < 6mmHg
 	- Leads to GERD
+### Upper Esophageal Sphincter
+![[UpperEsophagealSphincter.jpg]]
+- It is composed of oblique fibres of <u>thyropharyngeus</u> and transverse fibres of <u>cricopharyngeus</u> muscles
+- Dehiscence between the fibres of **thyropharyngeus and cricopharyngeus** muscles - <u>Kilian's dehiscence</u>
+- Dehiscence below **cricopharyngeus** - <u>Laimer's dehiscence</u>
+- Area **below and laterally to cricopharyngeus** - <u>Killian-Jamieson's area</u>
+- Esophageal diverticula
+	- Herniation in Killian's dehiscence  $\rightarrow$ Zenker's diverticulum
+	- Herniation in Killian-Jamieson's area  $\rightarrow$ Killian-Jamieson's diverticulum
+- Other esophageal diverticula
+	- Mid-esophageal / Traction diverticulum **(Only true diverticulum of esophagus)**
+	- Epiphrenic diverticulum (located above diaphragm)
+	
+#### Zenker's Diverticulum
+##### General
+- MC type of esophageal diverticulum
+- It is a false diverticulum (mucosa and submucosa)
+- MC in elderly/diabetic/males
+- Inferior constrictor muscle has dual nerve supply
+	- Supplies
+		- Thyropharyngeus - supplied by pharyngeal plexus
+		- Cricopharyngeus - supplied by RLN
+	- Due to dual nerve supply - Neuromuscular incordination during swallowing leads to herniation through Killian's dehiscence due to increased pressure.
+	![[KilliansDehiscenece.jpg]]
+##### Symptoms
+- MC - Dysphagia
+- 50% cases - Zenker's diverticula is associated with cervical web
+- Halitosis
+- Regurgitation
+##### Complications
+- MC complication - Lung abscess
+- Increased risk of SCC (due to chronic inflammation of Zenker's diverticula)
+##### Investigation
+- IOC - Barium Swallow
+	![[ZenkerBariumSwallow.jpg]]
+##### Treatment
+- TOC - Cripharyngeal myotomy + Diverticulopexy
+- Other alternative procedures
+	- Diverticulectomy (for larger diverticula > 4cm)
+	- Dohlman's procedure
+		- Diverticulo-esophagostomy
+		- It is endoscopic stapling of septum located between esophagus and diverticula
+
 ## GERD
 ### General
 - Incompetent LES leads to GERD
@@ -198,3 +241,24 @@ n7 --> n8
 	- Barium swallow (rule out sliding hernia)
 	- Endoscopy with biopsy (rule out Barret's Esophagus)
 - Gold standard treatment of GERD - Laproscopic Nissen fundoplication 360<sup>o</sup>
+### Fundoplication
+- Watson fundoplication
+	- Fundus of stomach taken to cover only 90<sup>o</sup> of esophagus anteriorly
+	- Rarely performed
+	![[WatsonFundoplication.jpg]]
+- DOR fundoplication
+	- Fundus of stomach is taken to cover 180<sup>o</sup> of esophagus anteriorly
+	- MC performed partial fundoplication
+	![[DorFundoplication.jpg]]
+- Toupet fundoplication
+	- Fundus of stomach is taken to 270<sup>o</sup> of esophagus posteriorly
+	- MC performed partial fundoplication
+	![[ToupetFundoplication.jpg]]
+- Belsey Mark IV
+	- Fundus of stomach is taken to cover 270<sup>o</sup> of esophagus anteriorly
+	- Rarely performed
+- Nissen's 360<sup>o</sup> fundolication
+	- MC performed
+	- One part of fundus is taken behind the esophagus and other part of fundus is taken in front of esophagus
+	- Both of them are plicated in front of esophagus
+	![[NissenFundoplication.jpg]]

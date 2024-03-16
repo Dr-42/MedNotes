@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f6584eb75bddf8bd",
+        "id": "e2fef123c9ea6945",
         "type": "tabs",
         "children": [
           {
-            "id": "caaa842943efa73c",
+            "id": "077291b5843019c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surgery/Trauma/AbdominalTrauma.md",
+                "file": "Surgery/GIT/Esophagus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cbeba237c3db9fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pathology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c474c7ace7617e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pathology/Genetics/SingleGeneDisorders.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "336b77aacbf0069e",
@@ -93,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surgery/Trauma/AbdominalTrauma.md",
+                "file": "Pathology/Genetics/SingleGeneDisorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surgery/Trauma/AbdominalTrauma.md",
+                "file": "Pathology/Genetics/SingleGeneDisorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Surgery/Trauma/AbdominalTrauma.md"
+                "file": "Pathology/Genetics/SingleGeneDisorders.md"
               }
             }
           },
@@ -161,29 +187,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caaa842943efa73c",
+  "active": "c474c7ace7617e43",
   "lastOpenFiles": [
-    "Surgery.md",
+    "Pathology/Images/XdominantPedigree.jpg",
+    "Pathology/Images/YlinkedPedigree.jpg",
+    "Pathology/Images/ARPedigree.jpg",
+    "Pathology/Images/ADPedigree.jpg",
+    "Pathology/Images",
+    "Pathology/Genetics",
+    "Pathology.md",
+    "Pathology/Genetics/SingleGeneDisorders.md",
+    "Pathology",
+    "Surgery/GIT/Esophagus.md",
+    "Surgery/Images/DorFundoplication.jpg",
+    "Surgery/Images/ToupetFundoplication.jpg",
+    "Surgery/Images/NissenFundoplication.jpg",
+    "Surgery/Images/WatsonFundoplication.jpg",
+    "Surgery/Images/ZenkerBariumSwallow.jpg",
+    "Surgery/Images/KilliansDehiscenece.jpg",
+    "Surgery/Images/Killian's Dehiscenece.jpg",
     "Surgery/Trauma/AbdominalTrauma.md",
-    "Surgery/Images/RenalTraumaGrade.jpg",
-    "Surgery/Images/RetroperitonealZones.jpg",
-    "Surgery/Images/TripleTubeOstomy.jpg",
-    "Surgery/Images/LiverTraumaProtocol.jpg",
-    "Surgery/Images/PringlesManeuver.jpg",
-    "Surgery/PancreatoBiliary/Liver/CouinaudSegments.md",
     "Surgery/PancreatoBiliary/Liver.md",
+    "Surgery/PancreatoBiliary/Liver/LiverTumors.md",
+    "Surgery/PancreatoBiliary/Liver/LiverAbscess.md",
+    "Surgery/PancreatoBiliary/Liver/HydatidCyst.md",
+    "Surgery/PancreatoBiliary/Liver/CouinaudSegments.md",
+    "Surgery.md",
     "Surgery/Liver/CoiunaudSegments.md",
     "Surgery/Liver",
-    "Surgery/Images/SplenicTraumaProtocol.jpg",
-    "Surgery/Images/PenetratingAbdominalTraumaProtocol.jpg",
-    "Surgery/Images/BluntAbdominalTraumaProtocol.jpg",
-    "Surgery/Images/DiagnosticPeritonealLavage.jpg",
-    "Surgery/Images/FASTViews.jpg",
     "Surgery/Trauma/Abdominal.md",
     "Surgery/Trauma/ThoracicInjury.md",
     "Misc.md",
     "Surgery/Trauma/TraumaATLSProtocol.md",
-    "Surgery/GIT/Esophagus.md",
     "Surgery/PancreatoBiliary/BileDuct.md",
     "Surgery/PancreatoBiliary/GallBladder.md",
     "Surgery/PancreatoBiliary/Pancreas.md",
@@ -194,20 +229,12 @@
     "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-6kpq16boilasvdju9d8wlawb9/dep-graph.bin",
     "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-6kpq16boilasvdju9d8wlawb9",
     "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-working/work-products.bin",
-    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-working/query-cache.bin",
-    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-working/dep-graph.part.bin",
-    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-working/dep-graph.bin",
     "Surgery/PancreatoBiliary/Liver/LiverTumors/Mets.md",
     "Surgery/PancreatoBiliary/Liver/LiverTumors/HCC.md",
     "Surgery/PancreaticoBiliary/GallBladder.md",
     "Surgery/Lung/Tumors/Mets.md",
     "Surgery/Lung/Tumors/Ca Lung.md",
     "Surgery/Skeletal/Bone/BoneMets.md",
-    "Surgery/PancreatoBiliary/Liver/PortalHypertension.md",
-    "Surgery/PancreatoBiliary/Liver/LiverTumors.md",
-    "Surgery/PancreatoBiliary/Liver/LiverAbscess.md",
-    "Surgery/PancreatoBiliary/Liver/HydatidCyst.md",
-    "Surgery/PancreatoBiliary/Liver/LiverTumors/Hepatoblastoma.md",
     "Untitled.canvas"
   ]
 }
