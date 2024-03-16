@@ -22,7 +22,7 @@
 	2. Inferior choldocal sphncter
 	3. Sphincter ampulaae
 	4. Sphincter pancreaticus
-	![[SphincterofOddi.jpg]]
+	![SphincterofOddi](Surgery/Images/SphincterofOddi.jpg)
 ## Choledochal Cyst
 ### General
 - Dilatation of bile duct
@@ -47,7 +47,7 @@
 | IVa  | Dilatation of both intra and extra hepatic bile ducts                    |
 | IVb  | Multiple cysts involving only extra hepatic bile duct                    |
 | V    | Multiple cysts involving only intra hepatic bile duct (Caroli's disease) |
-![[CholedochalCyst.jpg]]
+![CholedochalCyst](Surgery/Images/CholedochalCyst.jpg)
 - Type I - MC in 
 	- Choledochal cyst
 	- Hiatus hernia
@@ -109,7 +109,7 @@
 ### Clinical Features
 - Two types of presentation
 	- Asymptomatic
-		- Asymptomatic elevation of [[#Lab Parameters]]
+		- Asymptomatic elevation of [#Lab Parameters](#Lab%20Parameters)
 	- Jaundice with or withot complications
 ### Complications
 - Increased risk of infections
@@ -207,7 +207,7 @@ id4 -- If presence of distal filling defects --> id5
 - Gives onion skin appearance on cut section
 - Destruction of terminal intra-hepatic branches
 - Gives pruned tree appearance (selective destruction of terminal intrahepatic branches)
-	![[PrimarySclerosingCholangitis.jpg]]
+	![PrimarySclerosingCholangitis](Surgery/Images/PrimarySclerosingCholangitis.jpg)
 ### Clinical Features
 - Asymptomatic elevation of $\gamma$-Glutamyl transpeptidase (GGT) initially
 - Symptomatic: Formation of multiple strictures leads to
@@ -222,7 +222,7 @@ id4 -- If presence of distal filling defects --> id5
 		- Beaded appearance
 		- Pseudo-diverticula appearance
 		- Prunted tree appearance
-		![[PBC_ERCP.jpg]]
+		![PBC_ERCP](Surgery/Images/PBC_ERCP.jpg)
 ### Treatment
 - TOC - Liver transplantation
 - Control of inflammation - **High dose UDCA** (Ursodeoxycholic acid)
@@ -242,7 +242,7 @@ id4 -- If presence of distal filling defects --> id5
 	
 ### Classification of Bile Duct Injuries
 - Bismuth classification
-![[BileDuctInjuryBismuth.jpg]]
+![BileDuctInjuryBismuth](Surgery/Images/BileDuctInjuryBismuth.jpg)
 
 | Type | Description                                                                                         |
 | :--: | --------------------------------------------------------------------------------------------------- |
@@ -252,7 +252,7 @@ id4 -- If presence of distal filling defects --> id5
 |  IV  | Hilar stricture with destroyed confluence                                                           |
 |  V   | Stricture involving aberrant right sectoral duct with or without involvement of common hepatic duct |
 - Starsberg classification for laproscopic bile duct injuries
-![[BileDuctInjuryStrasberg.jpg]]
+![BileDuctInjuryStrasberg](Surgery/Images/BileDuctInjuryStrasberg.jpg)
 
 | Type | Description                                                       |
 | :--: | ----------------------------------------------------------------- |

@@ -6,7 +6,7 @@
 - **A**poneurosis
 - **L**oose areolar tissue
 - **P**eriosteum
-	![[Scalp.jpg]]
+	![Scalp](Surgery/Images/Scalp.jpg)
 ### Skin
 - Has numerus hair follicles
 - MC site of sebaceous cyst
@@ -47,7 +47,7 @@ n4 --- n4.3
 	- Intracranial hematoma
 	- Frontal sinus involvement
 #### Depressed skull fractures
-	![[DepressedSkullFracture.jpg]]
+	![DepressedSkullFracture](Surgery/Images/DepressedSkullFracture.jpg)
 - Inner and outer cortex - disrupted
 - Fragment of bone is pressed towards the brain
 - Inner cortex of bone frag. can have multiple sharp ends - Can lead to laceration of
@@ -61,7 +61,7 @@ n4 --- n4.3
 		- To obtain hemostasis
 ## Skull base fracture
 ### Types
-![[SkullBaseFractures.jpg]]
+![SkullBaseFractures](Surgery/Images/SkullBaseFractures.jpg)
 #### Anterior cranial fossa fracture
 ##### General
 - MC type of skull base fracture
@@ -74,7 +74,7 @@ n4 --- n4.3
 - Anosmia
 - CSF Rhinorrhea
 	- Presence of Target/Hal sign (Double ring sign)
-		![[DoubleTargetCSFRhinorrhoes.jpg]]
+		![DoubleTargetCSFRhinorrhoes](Surgery/Images/DoubleTargetCSFRhinorrhoes.jpg)
 	- Frontal lobe contusion
 	- Periorbital Hematoma - **Racoon eyes or Black eyes**
 #### Middle cranial fossa Fracture
@@ -90,7 +90,7 @@ n4 --- n4.3
 - Battle sign - Echhymosis or bruising over mastoid process
 - 7<sup>th</sup> and 8<sup>th</sup> cranial nerve injury 
 - Temporal lobe contusion
-	![[BattleSignAndHemotympanum.jpg]]
+	![BattleSignAndHemotympanum](Surgery/Images/BattleSignAndHemotympanum.jpg)
 #### Posterior Cranial Fossa Fracture
 ##### General
 - Fracture of occipital bone
@@ -165,7 +165,7 @@ n4 --- n4.3
 	- Dura mater
 	- Arachnoid mater
 	- Pia mater
-	![[Meninges.jpg]]
+	![Meninges](Surgery/Images/Meninges.jpg)
 
 ### Extradural and Subdural Hematoma
 #### Extradural Hematoma
@@ -180,7 +180,7 @@ n4 --- n4.3
 ##### Investigation
 - IOC - NCCT head
 - In NCCT - Shows biconvex or lenticula hyperdense lesion
-	![[EDHNCCT.jpg]]
+	![EDHNCCT](Surgery/Images/EDHNCCT.jpg)
 ##### Treatment
 - Drainage by 
 	- Burrhole
@@ -200,7 +200,7 @@ n4 --- n4.3
 - IOC - NCCT head
 - In NCCT
 	- Concavo convex hyperdense lesion
-	![[SDHNCCT.jpg]]
+	![SDHNCCT](Surgery/Images/SDHNCCT.jpg)
 ##### Treatment
 - Drainage by 
 	- Burrhole

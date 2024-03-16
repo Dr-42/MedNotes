@@ -38,7 +38,7 @@
 	- Urgency of care
 ### Traige Tags
 - Color codes to identify patient categorization
-	![[TriageColorCodesPriority.jpg]]
+	![TriageColorCodesPriority](Surgery/Images/TriageColorCodesPriority.jpg)
 - Codes
 	- Red - IMMEDIATE
 		- Most critically injured patients

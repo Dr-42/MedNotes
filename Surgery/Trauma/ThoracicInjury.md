@@ -14,7 +14,7 @@
 		- Cervical spine
 		- Cord
 ### Zones of Neck Injuries
-![[NeckInjuryZones.jpg]]
+![NeckInjuryZones](Surgery/Images/NeckInjuryZones.jpg)
 #### Zone I
 - Between sternal notch to cricoid cartilage
 - Structures located
@@ -83,7 +83,7 @@
 #### Diagnosis
 - Needle aspiration of pleural fluid - Shows blood
 - CXR
-	- ![[HemothoraxCXR.jpg]]
+	- ![HemothoraxCXR](Surgery/Images/HemothoraxCXR.jpg)
 #### Management
 - ICD insertion in triangle of safety in 5<sup>th</sup> IC space in Anterior axillary line
 - Boundaries of triangle of safety
@@ -91,7 +91,7 @@
 	- Laterally - Lateral border of Latissimus dorsi
 	- Inferiorly - Line of 5<sup>th</sup> IC space
 	- Superiorly - Base of axilla
-	![[TriangleOfSafety.jpg]]
+	![TriangleOfSafety](Surgery/Images/TriangleOfSafety.jpg)
 #### Indications of Thoracotomy
 - Initial tube thoracostomy drainage
 	- >1000mL in Penetrating trauma
@@ -151,7 +151,7 @@
 #### Investigations
 - IOC - Echocardiography
 - CXR - Shows enlarged heart shadow
-	![[CardiacTamponadeCXR.jpg]]	
+	![CardiacTamponadeCXR](Surgery/Images/CardiacTamponadeCXR.jpg)	
 #### Treatment
 - Emergency - Needle pericardiocentesis
 - TOC - Pericardiotomy
@@ -217,7 +217,7 @@
 			- MC injured - Tympanic membrane
 			- Most severly injured - GIT
 ## ICD Insertion
-	![[ICD.jpg]]
+	![ICD](Surgery/Images/ICD.jpg)
 - ICD insertion should be done in Triangle of Safety
 - Should be done near upper border of lower rib
 - Eyes of Chest Tube should be in pleural space

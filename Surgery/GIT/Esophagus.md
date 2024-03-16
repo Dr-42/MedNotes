@@ -31,7 +31,7 @@
 			- Sharp bodies
 			- Button batteries
 		- On chest Xray:
-		 ![[CoinInEsophagus.jpg]]
+		 ![CoinInEsophagus](Surgery/Images/CoinInEsophagus.jpg)
 
 ## Congenital Diaphragmatic Hernia
 ### General
@@ -89,7 +89,7 @@
 | <br>II  | <ul><li>True paraesophageal hernia (Rolling hernia)<li>Herniation of fundus of stomach<li>GE junction located below diaphragm<li><u>MC type of paraesophageal hernia<u></ul> |
 | <br>III | <ul><li>Mixed Paraesophageal Hernia (Sliding + Rolling)<li>Herniation of both GE junction and fundus of stomach</ul>                                                   |
 | <br>IV  | <ul><li>Paraesophageal hernia<li>Content other than stomach</ul>                                                                                                       |
-![[HiatusHernia.jpg]]
+![HiatusHernia](Surgery/Images/HiatusHernia.jpg)
 ##### Signs and symptoms
 
 | Type | Signs and Symptoms                                                                                                                                        |
@@ -150,7 +150,7 @@
 	- LES pressure < 6mmHg
 	- Leads to GERD
 ### Upper Esophageal Sphincter
-![[UpperEsophagealSphincter.jpg]]
+![UpperEsophagealSphincter](Surgery/Images/UpperEsophagealSphincter.jpg)
 - It is composed of oblique fibres of <u>thyropharyngeus</u> and transverse fibres of <u>cricopharyngeus</u> muscles
 - Dehiscence between the fibres of **thyropharyngeus and cricopharyngeus** muscles - <u>Kilian's dehiscence</u>
 - Dehiscence below **cricopharyngeus** - <u>Laimer's dehiscence</u>
@@ -172,7 +172,7 @@
 		- Thyropharyngeus - supplied by pharyngeal plexus
 		- Cricopharyngeus - supplied by RLN
 	- Due to dual nerve supply - Neuromuscular incordination during swallowing leads to herniation through Killian's dehiscence due to increased pressure.
-	![[KilliansDehiscenece.jpg]]
+	![KilliansDehiscenece](Surgery/Images/KilliansDehiscenece.jpg)
 ##### Symptoms
 - MC - Dysphagia
 - 50% cases - Zenker's diverticula is associated with cervical web
@@ -183,7 +183,7 @@
 - Increased risk of SCC (due to chronic inflammation of Zenker's diverticula)
 ##### Investigation
 - IOC - Barium Swallow
-	![[ZenkerBariumSwallow.jpg]]
+	![ZenkerBariumSwallow](Surgery/Images/ZenkerBariumSwallow.jpg)
 ##### Treatment
 - TOC - Cripharyngeal myotomy + Diverticulopexy
 - Other alternative procedures
@@ -245,15 +245,15 @@ n7 --> n8
 - Watson fundoplication
 	- Fundus of stomach taken to cover only 90<sup>o</sup> of esophagus anteriorly
 	- Rarely performed
-	![[WatsonFundoplication.jpg]]
+	![WatsonFundoplication](Surgery/Images/WatsonFundoplication.jpg)
 - DOR fundoplication
 	- Fundus of stomach is taken to cover 180<sup>o</sup> of esophagus anteriorly
 	- MC performed partial fundoplication
-	![[DorFundoplication.jpg]]
+	![DorFundoplication](Surgery/Images/DorFundoplication.jpg)
 - Toupet fundoplication
 	- Fundus of stomach is taken to 270<sup>o</sup> of esophagus posteriorly
 	- MC performed partial fundoplication
-	![[ToupetFundoplication.jpg]]
+	![ToupetFundoplication](Surgery/Images/ToupetFundoplication.jpg)
 - Belsey Mark IV
 	- Fundus of stomach is taken to cover 270<sup>o</sup> of esophagus anteriorly
 	- Rarely performed
@@ -261,4 +261,4 @@ n7 --> n8
 	- MC performed
 	- One part of fundus is taken behind the esophagus and other part of fundus is taken in front of esophagus
 	- Both of them are plicated in front of esophagus
-	![[NissenFundoplication.jpg]]
+	![NissenFundoplication](Surgery/Images/NissenFundoplication.jpg)

@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2fef123c9ea6945",
+        "id": "38eccd643986f9e0",
         "type": "tabs",
         "children": [
           {
-            "id": "077291b5843019c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Surgery/GIT/Esophagus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cbeba237c3db9fc",
+            "id": "fa96a8dce33b82de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c474c7ace7617e43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pathology/Genetics/SingleGeneDisorders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cbeba237c3db9fc",
+  "active": "fa96a8dce33b82de",
   "lastOpenFiles": [
+    "Pathology/Genetics/Basics.md",
+    "Pathology/Genetics/SpecificCytogeneticDisorders.md",
+    "Pathology/Images/KlinefelterKaryotype.jpg",
+    "Surgery/GIT/Esophagus.md",
+    "Pathology/Genetics/NonClassicalInheritanceDisorders.md",
     "Pathology/Genetics/SingleGeneDisorders.md",
     "Pathology.md",
     "Pathology/Images/XdominantPedigree.jpg",
@@ -198,13 +178,11 @@
     "Pathology/Images",
     "Pathology/Genetics",
     "Pathology",
-    "Surgery/GIT/Esophagus.md",
     "Surgery/Images/DorFundoplication.jpg",
     "Surgery/Images/ToupetFundoplication.jpg",
     "Surgery/Images/NissenFundoplication.jpg",
     "Surgery/Images/WatsonFundoplication.jpg",
     "Surgery/Images/ZenkerBariumSwallow.jpg",
-    "Surgery/Images/KilliansDehiscenece.jpg",
     "Surgery/Trauma/AbdominalTrauma.md",
     "Surgery/PancreatoBiliary/Liver.md",
     "Surgery/PancreatoBiliary/Liver/LiverTumors.md",
@@ -232,8 +210,6 @@
     "Surgery/PancreatoBiliary/Liver/LiverTumors/HCC.md",
     "Surgery/PancreaticoBiliary/GallBladder.md",
     "Surgery/Lung/Tumors/Mets.md",
-    "Surgery/Lung/Tumors/Ca Lung.md",
-    "Surgery/Skeletal/Bone/BoneMets.md",
     "Untitled.canvas"
   ]
 }

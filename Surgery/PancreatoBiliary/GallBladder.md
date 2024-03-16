@@ -31,14 +31,14 @@
 		- Most dangerous anomally
 		- Hepatic artery takes a tortuous turn at origin of CD
 		- Tortuous RHA with short cyctic artery
-		![[CaterpillarTurn.jpg]]
+		![CaterpillarTurn](Surgery/Images/CaterpillarTurn.jpg)
 ## Gall Stones
 
 ### General
 - MC type of gall stone worldwide - Mixed > Cholesterol
 - MC type of gall stone in Asia - Pigmented (Combined black and brown)
 - Gall stones have a triradiate fissure - **Mercedes Benz Sign**
-	![[MercedesBenzSign.jpg]]
+	![MercedesBenzSign](Surgery/Images/MercedesBenzSign.jpg)
 - Gall stones have a biradiate fissure - **Sea gull sign**
 ### Types
 #### Cholesterol gall stones
@@ -71,7 +71,7 @@
 		- OCP
 		- Massive burns
 - Composition - Crystalline **cholesterol monohydrate**
-![[CholesterolGallStones.jpg]]
+![CholesterolGallStones](Surgery/Images/CholesterolGallStones.jpg)
 #### Pigmented gall stones
 - Types
 	- Black
@@ -236,7 +236,7 @@
 - Aka functional hepatic syndrome
 - Characterised by external compression of common hepatic duct/ common bile duct
 - Erosion of stone into Hartmann's pouch / cystic duct
-	![[Mirizzi.jpg]]
+	![Mirizzi](Surgery/Images/Mirizzi.jpg)
 ### Csendes Classification
 1. Type I : External Compression
 2. Type II: Erosion < 1/3<sup>rd</sup> circumference of the duct
@@ -267,7 +267,7 @@
 	- Size of polyp > 1cm
 	- Documented increase in size on repeated scan
 ### Strawberry Gall Bladder
-![[CholesterolosisGB.jpg]]
+![CholesterolosisGB](Surgery/Images/CholesterolosisGB.jpg)
 - Aka Cholesterolosis
 - Caused by deposition of cholesterol ester and triglycerides inepithelia macrophages of gall bladder
 - Acquired condition
@@ -283,7 +283,7 @@
 	- Mucosal hyperproliferation
 #### Diagnosis
 - On USG - **Diamond ring sign / Comet tail arterfacts / V shaped artifact
-![[AdenomyomatosisUSG.jpg]]
+![AdenomyomatosisUSG](Surgery/Images/AdenomyomatosisUSG.jpg)
 
 #### Treatment
 - Lap cholecystectomy in symptomatic patients
@@ -296,7 +296,7 @@
 - Seen in 5th - 6th decade
 - >90% pateints have Gall stones
 - Generally diagniosed incidentally on X-ray or CT
-	![[PorcelainGB_CT.jpg]]
+	![PorcelainGB_CT](Surgery/Images/PorcelainGB_CT.jpg)
 - It increases the risk of malignancy by 6%
 - Treatment - Early cholecystectomy
 

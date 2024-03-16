@@ -6,7 +6,7 @@
 	- HLA genes
 	- MHC genes
 ## Autosomal Dominant Disorders
-![[ADPedigree.jpg]]
+![ADPedigree](Pathology/Images/ADPedigree.jpg)
 - Expressed in heterozygous state
 - 50% progeny affected
 - Vertical inheritance
@@ -37,7 +37,7 @@
 > Vo Familial Hyperchol Poora DOMINANT Hota Hai
 
 ## Autosomal Recessive Disorders
-![[ARPedigree.jpg]]
+![ARPedigree](Pathology/Images/ARPedigree.jpg)
 - Expressed only in homozygous state
 - Female == Male
 - Horizontal inheritance (siblings affected)
@@ -58,7 +58,7 @@
 ### General
 - X linked inheritance is the MC sex linked inheritance pattern
 ### Y linked inheritance
-![[YlinkedPedigree.jpg]]
+![YlinkedPedigree](Pathology/Images/YlinkedPedigree.jpg)
 - Aka Holandric Inheritance
 - Only males affected
 - Patient  $\rightarrow$ Son transmission
@@ -83,7 +83,7 @@
 > Less HCG _is_ Detected _in_ A Fragile Woman
 
 ### X Linked dominant disorders
-![[XdominantPedigree.jpg]]
+![XdominantPedigree](Pathology/Images/XdominantPedigree.jpg)
 - Affects male
 - Father to Daughter transmission
 - Less common

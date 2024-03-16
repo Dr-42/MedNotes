@@ -21,7 +21,7 @@
 - Infective stage - Egg of Echinococcus
 
 ## Life cycle
-![[Hydatid Life Cycle.jpg]]
+![Hydatid Life Cycle](Surgery/Images/Hydatid%20Life%20Cycle.jpg)
 
 ## Clinical Features
 - Equal distribution (Man == Woman)
@@ -38,9 +38,9 @@
 - First investigation - USG
 - Dx highly confirmed by
 	- USG - **Rosette appearance**
-		![[HydatidUSG.jpg]]
+		![HydatidUSG](Surgery/Images/HydatidUSG.jpg)
 	- CT - **Ring like calcification**
-		![[HydatidCT.jpg]]
+		![HydatidCT](Surgery/Images/HydatidCT.jpg)
 - IOC - Hydatid Serology (>95% specificity and sensitivity)
 	- ELISA
 	- ARC - 5
@@ -74,17 +74,17 @@
 		- Cyst in lung and brain (Don't have a pericyst)
 		- Calcified (Dead) cyst
 - Cyst evacuation + Omentopexy
-	![[HydatidEvacNOmentopexy.jpg]]```
+	![HydatidEvacNOmentopexy](Surgery/Images/HydatidEvacNOmentopexy.jpg)```
 ```
 If the surgeon doesn't want to attach the omentum, obliteration of the cyst cavity is done by sutures. This is known as cartilage/intro flexion
 ```
 
 - Pericystectomy
-	![[HydatidPericystectomy.jpg]]
+	![HydatidPericystectomy](Surgery/Images/HydatidPericystectomy.jpg)
 	- Most effective treatment
 	- Excision of cyst outside pericyst
 - Hepatic Resection
 	- Most radical
 
 ## Ghabri classification of Hydatid cyst
-	![[HydatidGhabri.jpg]]
+	![HydatidGhabri](Surgery/Images/HydatidGhabri.jpg)

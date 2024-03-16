@@ -20,7 +20,7 @@
 	- LUQ longitudinal view
 	- RUQ longitudinal view
 	- Suprapubic transverse and logitudianl view
-	![[FASTViews.jpg]]
+	![FASTViews](Surgery/Images/FASTViews.jpg)
 ### e-FAST (extended FAST)
 - Has two additional views (total 6)
 	- Right thoracic view
@@ -28,7 +28,7 @@
 - Pneumothorax on e-FAST shows <u>Bar code sign/Stratosphere sign</u>
 
 ## Diagnostic Peritoneal Lavage
-![[DiagnosticPeritonealLavage.jpg]]
+![DiagnosticPeritonealLavage](Surgery/Images/DiagnosticPeritonealLavage.jpg)
 - Performed in BTA patients
 	- Catheter is inserted after infra-umblical incision and directed towards pelvis
 	- Aspiration is done
@@ -42,12 +42,12 @@
 	- Presence of bile, bacterial, fecal matter, vegetable matter
 	- Amylsae > 175 IU/dL
 ## Blunt Abdominal Trauma Protocol
-![[BluntAbdominalTraumaProtocol.jpg]]
+![BluntAbdominalTraumaProtocol](Surgery/Images/BluntAbdominalTraumaProtocol.jpg)
 
 ## Penetrating Trauma
 - MC injured organ - Liver > Stomach > Small Intestine
 - Exploratory laprotomy is mandatory - Gunshot Wound
-	![[PenetratingAbdominalTraumaProtocol.jpg]]	
+	![PenetratingAbdominalTraumaProtocol](Surgery/Images/PenetratingAbdominalTraumaProtocol.jpg)	
 
 ## Organ specific
 ### Splenic Trauma
@@ -69,7 +69,7 @@
 |  IV   | > 25% devascularization                              | Laceration involving hilar vessels      |
 |   V   | Completely shattered spleen                          | Complete devascularization              |
 #### Protocol
-![[SplenicTraumaProtocol.jpg]]
+![SplenicTraumaProtocol](Surgery/Images/SplenicTraumaProtocol.jpg)
 
 ### Liver Trauma
 #### General
@@ -84,7 +84,7 @@
 	- Pack
 - Bear claw laceration - Multiple linear lacerations of liver on CECT
 #### Pringle's Maneuver
-![[PringlesManeuver.jpg]]
+![PringlesManeuver](Surgery/Images/PringlesManeuver.jpg)
 - Total inflow Occlusion
 - Non traumatic clamping in foramen of Winslow and we occlude the portal triad
 - It controls bleeding from portal vein and hepatic artery
@@ -100,7 +100,7 @@
 |   V   | -                                                  | Parenchymal disruption involving > 75% hepatic lobe  |
 |  VI   | Hepatic avulsion                                   | -                                                    |
 #### Protocol
-![[LiverTraumaProtocol.jpg]]
+![LiverTraumaProtocol](Surgery/Images/LiverTraumaProtocol.jpg)
 
 ### Duodenal Trauma
 #### General
@@ -113,7 +113,7 @@
 	- Decompressive Gastrostomy
 	- Decompresive Duodenostomy
 	- Feeding Jejunostomy
-	![[TripleTubeOstomy.jpg]]
+	![TripleTubeOstomy](Surgery/Images/TripleTubeOstomy.jpg)
 ### Pancreatic Trauma
 #### General
 - In adult - MC cause  $\rightarrow$  Penetrating
@@ -245,7 +245,7 @@ n1 -->|Lactic acidosis|n2
 
 ## Retro-peritoneal Injuries
 ### Zones
-![[RetroperitonealZones.jpg]]
+![RetroperitonealZones](Surgery/Images/RetroperitonealZones.jpg)
 #### Zone I - Central
 - Extends from esophageal hiatus to sacral promontory
 - Hemorrhage or hematoma - usually located in midline
@@ -288,7 +288,7 @@ n1 -->|Lactic acidosis|n2
 - IOC for Dx in stable patient - CECT
 - IOC for Dx in unstable patient - **single shot IVP** (Assess function of C/L kidney)
 ### Grading
-![[RenalTraumaGrade.jpg]]
+![RenalTraumaGrade](Surgery/Images/RenalTraumaGrade.jpg)
 - Grade I
 	- Microscopic/gross hematuria with normal urological studies
 	- Subcapsular, non-expanding hematoma without parenchymal laceration

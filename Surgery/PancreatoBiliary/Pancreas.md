@@ -9,7 +9,7 @@
 	- From ventral bud
 		- Part of head
 		- Uncinate process
-	![[PancreaticDivisumEmbryo.jpg]]
+	![PancreaticDivisumEmbryo](Surgery/Images/PancreaticDivisumEmbryo.jpg)
 ### Clinical Features
 - Recurrent attacks of Acute pancreatitis (Because of relative obstruction)
 ### Investigation
@@ -20,7 +20,7 @@
 	- Dorsal duct sphincterotomy
 	- Dorsal duct sphincteroplasty
 ## Annular Pancreas
-![[AnnularPancreas.jpg]]
+![AnnularPancreas](Surgery/Images/AnnularPancreas.jpg)
 ### General
 - Ring of venrtal pancreas present around 2<sup>nd</sup> part of Duodenum
 - Located primal to ampulla
@@ -113,13 +113,13 @@ n4 --> n5
 		- Ground glass appearance
 		- Sentinel loop sign
 		- Colon cut off sign
-		![[ParalyticIleusXray.jpg]]
+		![ParalyticIleusXray](Surgery/Images/ParalyticIleusXray.jpg)
 - It is associaetd with lef sided pleural effusion
 - Signs in Acute pancreatitis with ecchymosis
 	- Cullen sign - ecchymosis around umblicus
 	- Grey turner sign - ecchymosis around flank
 	- Fox sign - ecchymosis around inguinal region
-	![[EcchymoticSignsAcutePancreatitis.jpg]]
+	![EcchymoticSignsAcutePancreatitis](Surgery/Images/EcchymoticSignsAcutePancreatitis.jpg)
 ### Diagnosis
 - IOC : CECT
 	- Reserved for complications
@@ -282,7 +282,7 @@ n4 --> n5
 			- Size >= 6cm
 		- Surgery
 			- Cysto-jejunostomy - TOC (Best Results)
-				![[Cystojejunostomy.jpg]]
+				![Cystojejunostomy](Surgery/Images/Cystojejunostomy.jpg)
 				- Advantages
 					- Drainage along gravity
 					- No formation of SUMP syndrome
@@ -290,7 +290,7 @@ n4 --> n5
 					- Increased duration of surgery
 					- Increased bloo loss
 			- Cysto-gastrostomy - MC performed
-				![[Cystogastrostomy.jpg]]
+				![Cystogastrostomy](Surgery/Images/Cystogastrostomy.jpg)
 				- Disadvantages
 					- Drainage against gravity
 					- Since the drainage is against gravity, food may enter pseudocyst and cause infection (bacterial overgrowth) leading to SUMP
@@ -331,11 +331,11 @@ n4 --> n5
 - Gold standard - ERCP
 - On ERCP
 	- Shows alternate stricture and dilation of pancreatic duct with pancreatic stones enclosing giving <b><u>String of pearls/Chain of lakes/Beaded</b></u> appearance
-		![[ChainofLakes_chronicPancreatitis.jpg]]
+		![ChainofLakes_chronicPancreatitis](Surgery/Images/ChainofLakes_chronicPancreatitis.jpg)
 	- Composition of stone - **Ca(CO<sub>3</sub>)<sub>2</sub>
 - Endoscopic USG - Most accurate investigation for diagnosis of minimal change in chronic panreatitis
 - <b><u>ROSEMENT criteria</b></u> is based on endoscopic USG findings
-![[PancreaticCalcifications.jpg]]
+![PancreaticCalcifications](Surgery/Images/PancreaticCalcifications.jpg)
 ### Management
 - Exocrine insufficiency - Enteric coated pancreatic enzyme supplementation
 - Endocrine insufficiency - Insulin
@@ -399,12 +399,12 @@ n4 --> n5
 - IOC - CECT
 - Radiological Signs
 	- Antral Pad Sign
-		![[AntralPadSignCaPancreas.jpg]]
+		![AntralPadSignCaPancreas](Surgery/Images/AntralPadSignCaPancreas.jpg)
 	- Widening of C loop
 	- Reverse 3 sign of Frostberg
-		![[Reverse3SignofFrostbergCaPancreas.jpg]]
+		![Reverse3SignofFrostbergCaPancreas](Surgery/Images/Reverse3SignofFrostbergCaPancreas.jpg)
 	- Double Duct Sign
-		![[DoubleDuctSignCaPancreas.jpg]]
+		![DoubleDuctSignCaPancreas](Surgery/Images/DoubleDuctSignCaPancreas.jpg)
 - Other signs in Ca Pancreas
 	- Rose thorn appearance
 	- Mucosal irregularity
@@ -419,12 +419,12 @@ n4 --> n5
 			- 2<sup>nd</sup> anastomosis: Hepatico-jejunostomy
 			- 3<sup>rd</sup> anastomosis: Gastro-jejunostomy
 		- Performed in anticlockwise fashion
-			![[Whipples.jpg]]
+			![Whipples](Surgery/Images/Whipples.jpg)
 	- Longmire traverso procedure - Pylorus preserving Whipple's
 		- 1<sup>st</sup> anastomosis: Pancreatico-jejunostomy
 		- 2<sup>nd</sup> anastomosis: Hepatico-jejunostomy
 		- 3<sup>rd</sup> anastomosis: Duodeno-jejunostomy
-			![[LongwireTraverso.jpg]]
+			![LongwireTraverso](Surgery/Images/LongwireTraverso.jpg)
 - For advanced/metastatic stage - Gemcitabine
 #### Complications
 - MC site of anastomotic leak : PJ > GJ > HJ
@@ -501,7 +501,7 @@ n4 --> n5
 		- Junction of Cystic duct and CBD
 		- Junction of 2<sup>nd</sup> and 3<sup>rd</sup> part of duodenum
 		- Junction of neck and body of pancreas
-	![[PassarosTriangle.jpg]]
+	![PassarosTriangle](Surgery/Images/PassarosTriangle.jpg)
 #### Clinical Features
 - MC Symptom - Abdominal Pain
 - Other symptoms include
@@ -572,7 +572,7 @@ n4 --> n5
 - IOC - CECT
 	- Central stellate scar
 	- Central sunburst calcification
-	![[SerousCystAdenomaPancreas.jpg]]
+	![SerousCystAdenomaPancreas](Surgery/Images/SerousCystAdenomaPancreas.jpg)
 #### Treatment
 - Observation
 - Resection indicated if
@@ -614,7 +614,7 @@ n4 --> n5
 #### Diagnosis
 - IOC - Endoscopy
 - On endoscopy - Mucin extruding through large fish mouth opening (ampulla)
-	![[IPNMEndoscopy.jpg]]
+	![IPNMEndoscopy](Surgery/Images/IPNMEndoscopy.jpg)
 #### Treatment
 - Partial pancreatectomy
 - On aspiration of cyst content

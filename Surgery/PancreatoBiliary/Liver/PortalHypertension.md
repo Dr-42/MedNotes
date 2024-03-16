@@ -18,7 +18,7 @@
 ## Liver Anatomy
 - Area where blood from portal vein and hepatic artery mix - **Sinusoid**
 - Sinusoid is surrounded by _Hepatocytes, Kupffer cells, and Bile canaliculi_
-	![[LiverAnatomy.jpg]]
+	![LiverAnatomy](Surgery/Images/LiverAnatomy.jpg)
 
 ## Causes
 |                  | Pre-sinusoidal                   | Post-sinusoidal              | Sinusoidal                                 |
@@ -39,7 +39,7 @@
 - Doppler is IOC
 
 ## Portal systemic anastomotic sites
-![[PortalAnastomses.jpg]]
+![PortalAnastomses](Surgery/Images/PortalAnastomses.jpg)
 
 - Esophageal varices
 	- Left Gastric vein (Coronary vein)
@@ -94,12 +94,12 @@
 	- MC complication - Aspiration
 	- Max Pressure - 35 - 40 mmHg
 	- Every 12 hrs, esophageal baloon deflated to prevent esophageal ischemia.
-	![[SengstakenBlakemoreTube.jpg]]	
+	![SengstakenBlakemoreTube](Surgery/Images/SengstakenBlakemoreTube.jpg)	
 - Linton's Nachalas tube
 	- Single baloon tube
 	- Capacity - 400 - 700 mL
 	- Use - **Isolated gastric varices**
-	![[LintonNachlasTube.jpg]]
+	![LintonNachlasTube](Surgery/Images/LintonNachlasTube.jpg)
 
 ## TIPSS (Trans Jugular Intrahepatic Porto Systemic Shunt)
 ### General
@@ -109,7 +109,7 @@
 	- Internal Jugular Vein is preferred
 	- **Rosch** needle is used
 - Sten name - <u><b>VIATORR</b></u>
-	![[TIPSS.jpg]]
+	![TIPSS](Surgery/Images/TIPSS.jpg)
 
 ### Complications
 - Encephalopathy (due to NH<sub>3</sub>) - MC

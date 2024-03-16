@@ -100,14 +100,14 @@
 ## Bubble Xrays
 - Single Bubble appearance
 	- Congenital Hypertrophic Pyloric Stenosis
-	- ![[SingleBubbleXray.jpg]]
+	- ![SingleBubbleXray](Surgery/Images/SingleBubbleXray.jpg)
 - Double Bubble Appearance
 	- Doudenal Atresia
 	- Annular Pancreas
-	- ![[DoubleBubbleXray.jpg]]
+	- ![DoubleBubbleXray](Surgery/Images/DoubleBubbleXray.jpg)
 - Triple Bubble Appearance
 	- Jejunal Atresia
-	- ![[TripleBubbleXray.jpg]]
+	- ![TripleBubbleXray](Surgery/Images/TripleBubbleXray.jpg)
 - Multiple Air-fluid levels
 	- Ileal atresia
 ## Ideal time of drain removal

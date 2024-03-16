@@ -59,7 +59,7 @@
 - First investigation done in suspected HCC - **USG**
 - IOC - Triple phase CT
 	- Arterial Hypervascularization with venous washout
-		![[HCCTriplePhaseCT.jpg]]
+		![HCCTriplePhaseCT](Surgery/Images/HCCTriplePhaseCT.jpg)
 
 ## Staging
 1. Okuda Classification

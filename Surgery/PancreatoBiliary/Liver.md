@@ -12,7 +12,7 @@
 	- [HCC](HCC.md) is supplied exclusively by Hepatic artery, hence triple phase CT is I.O.C
 - Portal vein triad looks like mickey mouse head on USG (Mickey mouse sign)
 
-![[PortalTriad_MickeyMouse.jpg]] Mickey Mouse sign
+![PortalTriad_MickeyMouse](Surgery/Images/PortalTriad_MickeyMouse.jpg) Mickey Mouse sign
 
 # Topics
 

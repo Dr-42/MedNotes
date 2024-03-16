@@ -19,4 +19,4 @@
 For non GI malignancies, MC mets site is [Lung](Surgery/Lung/Tumors/Mets)
 
 ## General
-- Most common primary liver mets - Colorectal Cancer > [[Ca Lung]]
+- Most common primary liver mets - Colorectal Cancer > [Ca Lung](Surgery/Lung/Tumors/Ca%20Lung.md)
