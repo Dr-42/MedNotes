@@ -11,8 +11,12 @@
             "id": "fa96a8dce33b82de",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pathology/Hematology/HematopoesisBasics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "336b77aacbf0069e",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pathology/Hematology/HematopoesisBasics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pathology/Hematology/HematopoesisBasics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pathology/Hematology/HematopoesisBasics.md"
+              }
             }
           },
           {
@@ -156,6 +165,26 @@
   "active": "fa96a8dce33b82de",
   "lastOpenFiles": [
     "Pathology.md",
+    "Pathology/Hematology/PNH.md",
+    "Pathology/Hematology/AutoimmuneHemolyticAnemia.md",
+    "Pathology/Hematology/MegaloblasticAnemia.md",
+    "Pathology/Hematology/Thalassemia.md",
+    "Pathology/Hematology/SickleCellAnemia.md",
+    "Pathology/Hematology/HemolyticAnemiaBasics.md",
+    "Pathology/Hematology/HeriditarySpherocytosis.md",
+    "Pathology/Hematology/G6PDDeficiency.md",
+    "Pathology/Hematology/MicrocyticAnemia.md",
+    "Pathology/Hematology/RBCDevelopment.md",
+    "Pathology/Hematology/HematopoesisBasics.md",
+    "Pathology/Hematology/MegaloblasticAnemia",
+    "Pathology/Hematology/Thalassemia",
+    "Pathology/Hematology/SickleCellAnemia",
+    "Pathology/Hematology/HemolyticAnemiaBasics",
+    "Pathology/Hematology/HeriditarySpherocytosis",
+    "Pathology/Hematology/G6PDDeficiency",
+    "Pathology/Hematology/MicrocyticAnemia",
+    "Pathology/Hematology/Untitled.md",
+    "Pathology/Hematology",
     "Pathology/Genetics/Basics.md",
     "Pathology/Genetics/SpecificCytogeneticDisorders.md",
     "Pathology/Images/KlinefelterKaryotype.jpg",
@@ -168,7 +197,6 @@
     "Pathology/Images/ADPedigree.jpg",
     "Pathology/Images",
     "Pathology/Genetics",
-    "Pathology",
     "Surgery/Images/DorFundoplication.jpg",
     "Surgery/Images/ToupetFundoplication.jpg",
     "Surgery/Images/NissenFundoplication.jpg",
@@ -182,25 +210,6 @@
     "Surgery/PancreatoBiliary/Liver/CouinaudSegments.md",
     "Surgery.md",
     "Surgery/Liver/CoiunaudSegments.md",
-    "Surgery/Liver",
-    "Surgery/Trauma/Abdominal.md",
-    "Surgery/Trauma/ThoracicInjury.md",
-    "Misc.md",
-    "Surgery/Trauma/TraumaATLSProtocol.md",
-    "Surgery/PancreatoBiliary/BileDuct.md",
-    "Surgery/PancreatoBiliary/GallBladder.md",
-    "Surgery/PancreatoBiliary/Pancreas.md",
-    "Surgery/Trauma/HeadInjury.md",
-    "create_maps.rs",
-    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-6kpq16boilasvdju9d8wlawb9/work-products.bin",
-    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-6kpq16boilasvdju9d8wlawb9/query-cache.bin",
-    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-6kpq16boilasvdju9d8wlawb9/dep-graph.bin",
-    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-6kpq16boilasvdju9d8wlawb9",
-    "mindmap_obs/target/debug/incremental/mindmap_obs-2a78y0xxbj0d0/s-gu6hhamneu-1pwe5fu-working/work-products.bin",
-    "Surgery/PancreatoBiliary/Liver/LiverTumors/Mets.md",
-    "Surgery/PancreatoBiliary/Liver/LiverTumors/HCC.md",
-    "Surgery/PancreaticoBiliary/GallBladder.md",
-    "Surgery/Lung/Tumors/Mets.md",
     "Untitled.canvas"
   ]
 }
