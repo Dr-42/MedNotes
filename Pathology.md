@@ -16,8 +16,8 @@
 			1. [Iron Deficiency Anemia](Pathology/Hematology/MicrocyticAnemia#Iron%20Deficiency%20Anemia)
 			2. [Anemia of Chronic Disease](Pathology/Hematology/MicrocyticAnemia#Anemia%20of%20Chronic%20Disease)
 			3. [Sideroblastic Anemia](Pathology/Hematology/MicrocyticAnemia#Sideroblastic%20Anemia)
-		5. [G6PD Deficiency](Pathology/Hematology/G6PDDeficiency)
-		6. [Heriditary Spherocytosis](Pathology/Hematology/HeriditarySpherocytosis)
+		5. [Heriditary Spherocytosis](Pathology/Hematology/HeriditarySpherocytosis)
+		6. [G6PD Deficiency](Pathology/Hematology/G6PDDeficiency)
 		7. [Hemolytic Anemia Basics](Pathology/Hematology/HemolyticAnemiaBasics)
 		8. Hemoglobinopathies
 			1. [Sickle Cell Anemia](Pathology/Hematology/SickleCellAnemia)

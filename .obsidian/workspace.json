@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology/Hematology/MicrocyticAnemia.md",
+                "file": "Pathology/Hematology/G6PDDeficiency.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology/Hematology/MicrocyticAnemia.md",
+                "file": "Pathology/Hematology/G6PDDeficiency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology/Hematology/MicrocyticAnemia.md",
+                "file": "Pathology/Hematology/G6PDDeficiency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pathology/Hematology/MicrocyticAnemia.md"
+                "file": "Pathology/Hematology/G6PDDeficiency.md"
               }
             }
           },
@@ -164,11 +164,14 @@
   },
   "active": "00bee207a862123a",
   "lastOpenFiles": [
+    "Pathology.md",
+    "Pathology/Hematology/HeriditarySpherocytosis.md",
+    "Pathology/Hematology/RBCDevelopment.md",
+    "Pathology/Hematology/AnemiaClassification.md",
+    "Pathology/Hematology/MicrocyticAnemia.md",
+    "Pathology/Images/HeriditarySpherocytosisPS.jpg",
     "Pathology/Images/RingedSideroblast.jpg",
     "Forensic/Toxicology/LeadPoisoning.md",
-    "Pathology/Hematology/MicrocyticAnemia.md",
-    "Pathology.md",
-    "Pathology/Hematology/AnemiaClassification.md",
     "Forensic/Toxicology",
     "Forensic",
     "Pathology/Misc/CDAssiciations.md",
@@ -181,7 +184,6 @@
     "Pathology/Hematology/ALL.md",
     "Pathology/Hematology/AML.md",
     "Pathology/Hematology/HematopoesisBasics.md",
-    "Pathology/Hematology/RBCDevelopment.md",
     "Pathology/Misc",
     "Surgery/Skeletal/Bone/BoneMets.md",
     "Pathology/Images/Reticulocytes.jpg",
@@ -196,7 +198,6 @@
     "Pathology/Hematology/Thalassemia.md",
     "Pathology/Hematology/SickleCellAnemia.md",
     "Pathology/Hematology/HemolyticAnemiaBasics.md",
-    "Pathology/Hematology/HeriditarySpherocytosis.md",
     "Pathology/Hematology/G6PDDeficiency.md",
     "Pathology/Hematology/MegaloblasticAnemia",
     "Pathology/Hematology/Thalassemia",
@@ -208,8 +209,6 @@
     "Pathology/Images/KlinefelterKaryotype.jpg",
     "Pathology/Images/XdominantPedigree.jpg",
     "Pathology/Images/YlinkedPedigree.jpg",
-    "Pathology/Images/ARPedigree.jpg",
-    "Pathology/Images/ADPedigree.jpg",
     "Untitled.canvas"
   ]
 }
