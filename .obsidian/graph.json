@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "file:Misc. ",
+      "query": "file:Surgery/Misc",
       "color": {
         "a": 1,
         "rgb": 11206906
@@ -62,17 +62,31 @@
         "a": 1,
         "rgb": 11621088
       }
+    },
+    {
+      "query": "path:Pathology/Hematology  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "file:Pathology/Misc",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.4,
-  "nodeSizeMultiplier": 1.22567567567568,
-  "lineSizeMultiplier": 3.28347193347193,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.99989604989605,
+  "lineSizeMultiplier": 4.17993762993763,
   "collapse-forces": false,
-  "centerStrength": 0.5,
-  "repelStrength": 14.989604989605,
-  "linkStrength": 1,
+  "centerStrength": 0.483367983367983,
+  "repelStrength": 10.2494802494803,
+  "linkStrength": 0.566528066528067,
   "linkDistance": 290,
   "scale": 0.4444444444444444,
   "close": false

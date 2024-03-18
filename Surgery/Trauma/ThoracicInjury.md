@@ -232,5 +232,5 @@
 - Position of chest tube and resolution of intrapleural air is checked by **Chest Xray**
 - Removal of chest tube is considered
 	- When lung is fully expanded _or_
-	- [Drain output < 200mL in 24hrs](Misc#Ideal%20time%20of%20drain%20removal)
+	- [Drain output < 200mL in 24hrs](Surgery/Misc.md#Ideal%20time%20of%20drain%20removal)
 - Removal - Done at breath holding in peak inspiration

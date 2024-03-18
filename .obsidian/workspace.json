@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46a38eb50527ca7d",
+        "id": "6b2e917b13c5fef7",
         "type": "tabs",
         "children": [
           {
-            "id": "00bee207a862123a",
+            "id": "5c0b2ffaee8255f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,11 +162,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00bee207a862123a",
+  "active": "5c0b2ffaee8255f5",
   "lastOpenFiles": [
+    "Pathology/Genetics/SingleGeneDisorders.md",
+    "Pathology/Hematology/G6PDDeficiency.md",
+    "Pathology/Genetics/NonClassicalInheritanceDisorders.md",
+    "Pathology/Genetics/Basics.md",
+    "Pathology/Images/HeinzBodies.jpg",
+    "Surgery/Lung/Tumors/Mets.md",
+    "Surgery/Misc.md",
+    "Pathology/Hematology/RBCDevelopment.md",
+    "Surger/Skeletal/Bone/BoneMets.md",
+    "Surger/Skeletal/Bone",
+    "Surger/Skeletal",
+    "Surger",
     "Pathology.md",
     "Pathology/Hematology/HeriditarySpherocytosis.md",
-    "Pathology/Hematology/RBCDevelopment.md",
     "Pathology/Hematology/AnemiaClassification.md",
     "Pathology/Hematology/MicrocyticAnemia.md",
     "Pathology/Images/HeriditarySpherocytosisPS.jpg",
@@ -193,22 +204,12 @@
     "Surgery/PancreatoBiliary/BileDuct.md",
     "Surgery/PancreatoBiliary/Liver/CouinaudSegments.md",
     "Pathology/Hematology/PNH.md",
-    "Pathology/Hematology/AutoimmuneHemolyticAnemia.md",
-    "Pathology/Hematology/MegaloblasticAnemia.md",
-    "Pathology/Hematology/Thalassemia.md",
-    "Pathology/Hematology/SickleCellAnemia.md",
-    "Pathology/Hematology/HemolyticAnemiaBasics.md",
-    "Pathology/Hematology/G6PDDeficiency.md",
     "Pathology/Hematology/MegaloblasticAnemia",
     "Pathology/Hematology/Thalassemia",
     "Pathology/Hematology/SickleCellAnemia",
     "Pathology/Hematology/HemolyticAnemiaBasics",
-    "Pathology/Hematology/HeriditarySpherocytosis",
-    "Pathology/Hematology/G6PDDeficiency",
-    "Pathology/Hematology/MicrocyticAnemia",
     "Pathology/Images/KlinefelterKaryotype.jpg",
     "Pathology/Images/XdominantPedigree.jpg",
-    "Pathology/Images/YlinkedPedigree.jpg",
     "Untitled.canvas"
   ]
 }

@@ -76,7 +76,7 @@ n5-->n6
 - $\downarrow$ Retic count
 	- Aplastic Anemia
 	- Deficiency of Fe/FA/B<sub>12</sub>
-	- Leukemias/[Metastatis](Surger/Skeletal/Bone/BoneMets)
+	- Leukemias/[Metastatis](Surgery/Skeletal/Bone/BoneMets)
 	- Myelofibrosis
 
 ## RBCs

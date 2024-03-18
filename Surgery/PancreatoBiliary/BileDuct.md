@@ -72,7 +72,7 @@
 	- Pancreas
 	- Duodenum
 ### Investigation
-- IOC - [MRCP](Misc#MRCP) (Magnetic Resonance Cholangiography)
+- IOC - [MRCP](Surgery/Misc.md#MRCP) (Magnetic Resonance Cholangiography)
 - ERCP (Endoscopic Retrograde)
 	- Diagnostic + Therapeutic
 	- Side viewing endoscope used
@@ -199,7 +199,7 @@ id4 -- If presence of distal filling defects --> id5
 	- Ulcerative Colitis
 		- 1<sup>o</sup> sclerosing cholangitis (PSC) seen in 5 - 6% cases of UC
 		- UC seen in 70 - 80% cases of PSC
-- [Smoking is protective](Misc.md#Smoking%20is%20protective)
+- [Smoking is protective](Surgery/Misc.md#Smoking%20is%20protective)
 
 ### Pathophysiology
 - Target cell injury in PSC is <u><b>Cholangiocytes</b></u> (Cells lining the bile duct)

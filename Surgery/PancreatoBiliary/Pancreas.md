@@ -40,7 +40,7 @@
 - Have <u><b>bilious vomiting</b></u>.
 
 ### Investigations
-- On Xray - [Double Bubble appearance](Misc#Bubble%20Xrays)
+- On Xray - [Double Bubble appearance](Surgery/Misc.md#Bubble%20Xrays)
 ### Management
 - TOC Duodeno-duodenostomy > Doudenojejunostomy
 
