@@ -1,12 +1,12 @@
 # Anemia Classification
 
 1. Based on size of RBC
-	- Microcytic Anemia
-		- Sideroblastic Anemia
-		- Iron deficiency Anemia
-		- Thalassemia
-		- Anemia of Chronic Disease
-		- Lead Poisoning
+	- [Microcytic Anemia](Pathology/Hematology/MicrocyticAnemia.md)
+		- [Iron Deficiency Anemia](Pathology/Hematology/MicrocyticAnemia#Iron%20Deficiency%20Anemia)
+		- [Anemia of Chronic Disease](Pathology/Hematology/MicrocyticAnemia#Anemia%20of%20Chronic%20Disease)
+		- [Sideroblastic Anemia](Pathology/Hematology/MicrocyticAnemia#Sideroblastic%20Anemia)
+		- [Thalassemia](Pathology/Hematology/Thalassemia.md)
+		- [Lead Poisoning](Forensic/Toxicology/LeadPoisoning)
 	- Macrocytic Anemia
 		- Liver Disease
 		- Hypothyroidism

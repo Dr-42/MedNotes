@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a96afe2978d0ac1",
+            "id": "00bee207a862123a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,20 +162,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a96afe2978d0ac1",
+  "active": "00bee207a862123a",
   "lastOpenFiles": [
-    "Pathology/Images/IronMetabolism.jpg",
-    "Pathology/Hematology/HematParams.md",
+    "Pathology/Images/RingedSideroblast.jpg",
+    "Forensic/Toxicology/LeadPoisoning.md",
     "Pathology/Hematology/MicrocyticAnemia.md",
     "Pathology.md",
-    "Pathology/Misc/CDAssiciations.md",
     "Pathology/Hematology/AnemiaClassification.md",
+    "Forensic/Toxicology",
+    "Forensic",
+    "Pathology/Misc/CDAssiciations.md",
+    "Pathology/Misc/ChromosomalAssociations.md",
+    "Pathology/Genetics/SpecificCytogeneticDisorders.md",
+    "Pathology/Misc/CDAssociations.md",
+    "Pathology/Images/IronMetabolism.jpg",
+    "Pathology/Hematology/HematParams.md",
     "Pathology/Hematology/WBCBasics.md",
     "Pathology/Hematology/ALL.md",
     "Pathology/Hematology/AML.md",
     "Pathology/Hematology/HematopoesisBasics.md",
     "Pathology/Hematology/RBCDevelopment.md",
-    "Pathology/Misc/CDAssociations.md",
     "Pathology/Misc",
     "Surgery/Skeletal/Bone/BoneMets.md",
     "Pathology/Images/Reticulocytes.jpg",
@@ -199,17 +205,11 @@
     "Pathology/Hematology/HeriditarySpherocytosis",
     "Pathology/Hematology/G6PDDeficiency",
     "Pathology/Hematology/MicrocyticAnemia",
-    "Pathology/Hematology",
-    "Pathology/Genetics/Basics.md",
-    "Pathology/Genetics/SpecificCytogeneticDisorders.md",
     "Pathology/Images/KlinefelterKaryotype.jpg",
-    "Surgery/GIT/Esophagus.md",
     "Pathology/Images/XdominantPedigree.jpg",
     "Pathology/Images/YlinkedPedigree.jpg",
     "Pathology/Images/ARPedigree.jpg",
     "Pathology/Images/ADPedigree.jpg",
-    "Pathology/Images",
-    "Surgery/Images/DorFundoplication.jpg",
     "Untitled.canvas"
   ]
 }

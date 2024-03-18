@@ -13,7 +13,7 @@
 		- Except **Trisomy 18**  $\rightarrow$ Affects Meiosis II
 	- Extra chromosome  $\rightarrow$ Maternal origin
 - Robertsonian Translocation
-	- Affects chromosome 14/1
+	- Affects chromosome 14/21
 	- No association with maternal age
 	- It is a familial condition
 - Mosaicism

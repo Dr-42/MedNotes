@@ -1,0 +1,11 @@
+- M<sub>2</sub> AML  $\rightarrow$ t(8;21)
+- M<sub>3</sub> AML  $\rightarrow$ t(15;17)
+	- $\downarrow$ VitA  $\rightarrow$ DIC
+- M<sub>4</sub> AML  $\rightarrow$ t(16;16)
+- Down's Syndrome
+	- Trisomy 21
+	- t(14;21)
+	- t(21;22)
+	- t(21;21)
+- Edward Syndrome  $\rightarrow$ trisomy 18
+- Patau Syndrome  $\rightarrow$ trisomy 21
