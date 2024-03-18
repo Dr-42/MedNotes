@@ -109,7 +109,7 @@
 ### Clinical Features
 - Two types of presentation
 	- Asymptomatic
-		- Asymptomatic elevation of [#Lab Parameters](#Lab%20Parameters)
+		- Asymptomatic elevation of [Lab Parameters](#Lab%20Parameters)
 	- Jaundice with or withot complications
 ### Complications
 - Increased risk of infections

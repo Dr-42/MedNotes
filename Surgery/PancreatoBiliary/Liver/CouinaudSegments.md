@@ -27,7 +27,7 @@ Hence in Hepatectomy, The respective lobes are removed
 ```
 
 - Extra segments:
-	- Segment I - [#Caudate Lobe](#Caudate%20Lobe)
+	- Segment I - [Caudate Lobe](#Caudate%20Lobe)
 	- Segment IV - Quadrate Lobe
 
 ## Trisegementectomy
