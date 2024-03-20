@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Hematology/RBC/AplasticAnemia.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Hematology/RBC/AplasticAnemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Hematology/RBC/AplasticAnemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pathology.md"
+                "file": "Pathology/Hematology/RBC/AplasticAnemia.md"
               }
             }
           },
@@ -165,51 +165,52 @@
   },
   "active": "5c0b2ffaee8255f5",
   "lastOpenFiles": [
-    "Pathology/Hematology/Thalassemia.md",
+    "Pathology.md",
+    "Pathology/Hematology/RBC/AutoimmuneHemolyticAnemia.md",
+    "Pathology/Images/ColdSlideTest.jpg",
+    "Pathology/Hematology/RBC/AplasticAnemia.md",
+    "Pathology/Hematology/RBC/MegaloblasticAnemia.md",
+    "Pathology/Hematology/BleedingAndBG/BasicConcepts.md",
+    "Pathology/Images/ClottingCascade.jpg",
+    "Pathology/Hematology/RBC/AnemiaClassification.md",
+    "Pathology/Hematology/WBC/ALL.md",
+    "Pathology/Hematology/BleedingAndBG",
+    "Pathology/Hematology/WBC",
+    "Pathology/Hematology/RBC",
+    "Pathology/Images/CabotRing.jpg",
+    "Pathology/Images/SeiveChromatinMegaloblast.jpg",
+    "Pathology/Images/HypersegmentedNeutrophil.jpg",
+    "Pathology/Hematology/RBC/Thalassemia.md",
     "Pathology/Images/GolfBallAppearancePS.jpg",
     "Pathology/Images/NestrofTest.jpg",
     "Pathology/Images/NestrofTest.png",
     "Pathology/Images/CrewCutSkull.jpg",
     "Pathology/Images/ThalassemiaPS.jpg",
-    "Pathology/Images/ChipmunkFacies.jpg",
-    "Pathology.md",
     "Pathology/Genetics/Basics.md",
     "Pathology/Misc/CDAssociations.md",
     "Pathology/Misc/CDAssiciations.md",
-    "Pathology/Hematology/SickleCellAnemia.md",
-    "Pathology/Images/SickleCellElectrophoresis.jpg",
-    "Pathology/Images/SickleCellAnemiaPS.jpg",
-    "Pathology/Images/SickleCellGenetics.jpg",
+    "Pathology/Hematology/RBC/SickleCellAnemia.md",
     "Surgery/PancreatoBiliary/Liver/CouinaudSegments.md",
     "Surgery/PancreatoBiliary/GallBladder.md",
-    "Pathology/Hematology/HemolyticAnemiaBasics.md",
-    "Pathology/Images/HemolyticAnemiaCF.jpg",
-    "Pathology/Hematology/G6PDDeficiency.md",
+    "Pathology/Hematology/RBC/HemolyticAnemiaBasics.md",
+    "Pathology/Hematology/RBC/G6PDDeficiency.md",
     "Pathology/Genetics/SingleGeneDisorders.md",
     "Pathology/Genetics/NonClassicalInheritanceDisorders.md",
     "Surgery/Lung/Tumors/Mets.md",
     "Surgery/Misc.md",
-    "Pathology/Hematology/RBCDevelopment.md",
+    "Pathology/Hematology/RBC/RBCDevelopment.md",
     "Surger/Skeletal/Bone/BoneMets.md",
     "Surger/Skeletal/Bone",
     "Surger/Skeletal",
     "Surger",
-    "Pathology/Hematology/HeriditarySpherocytosis.md",
-    "Pathology/Hematology/AnemiaClassification.md",
-    "Pathology/Hematology/MicrocyticAnemia.md",
+    "Pathology/Hematology/RBC/HeriditarySpherocytosis.md",
+    "Pathology/Hematology/RBC/MicrocyticAnemia.md",
     "Forensic/Toxicology/LeadPoisoning.md",
     "Forensic/Toxicology",
     "Forensic",
     "Pathology/Misc/ChromosomalAssociations.md",
-    "Pathology/Genetics/SpecificCytogeneticDisorders.md",
-    "Pathology/Hematology/HematParams.md",
-    "Pathology/Hematology/WBCBasics.md",
-    "Pathology/Hematology/ALL.md",
     "Pathology/Misc",
     "Pathology/Hematology/MegaloblasticAnemia",
-    "Pathology/Hematology/Thalassemia",
-    "Pathology/Hematology/SickleCellAnemia",
-    "Pathology/Hematology/HemolyticAnemiaBasics",
     "Untitled.canvas"
   ]
 }

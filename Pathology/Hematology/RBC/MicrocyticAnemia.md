@@ -3,7 +3,7 @@
 ## Iron Deficiency Anemia
 ### General
 - MC cause of microcytic anemia
-- Revise [Normal Iron Studies](Pathology/Hematology/HematParams#Iron%20Studies)
+- Revise [Normal Iron Studies](Pathology/Hematology/RBC/HematParams.md#Iron%20Studies)
 - Stain for Hemosiderin  $\rightarrow$ Prussian Blue
 - Absorption  $\rightarrow$ Cheif site is duodenum
 - Pure vegitarians have $\uparrow$ chances of Iron Deficiency
@@ -151,9 +151,9 @@ n4 --> |Fe + Ferrochelatase| n5
 	- Ringed sideroblasts seen in
 		- Sideroblastic Anemia
 		- Myelodysplastic Syndrome
-		- [Thalassemia](Pathology/Hematology/Thalassemia.md)
-		- [Megaloblastic Anemia](Pathology/Hematology/MegaloblasticAnemia.md)
-		- [Hemolytic Anemias](Pathology/Hematology/HemolyticAnemiaBasics.md)
+		- [Thalassemia](Pathology/Hematology/RBC/Thalassemia.md)
+		- [Megaloblastic Anemia](Pathology/Hematology/RBC/MegaloblasticAnemia.md)
+		- [Hemolytic Anemias](Pathology/Hematology/RBC/HemolyticAnemiaBasics.md)
 - Iron Profile
 	- $\uparrow$ S. Ferritin
 	- $\uparrow$ S. Iron

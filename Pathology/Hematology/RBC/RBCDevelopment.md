@@ -95,7 +95,7 @@ n5-->n6
 |   MCHC    | 33-36g/dL |
 - MCV = $\frac{Hematocrit \times 10}{RBC-count}$
 - MCHC = $\frac{MCH}{MCV}$
-- [Heriditary Spherocytosis](Pathology/Hematology/HeriditarySpherocytosis)  $\rightarrow$ MCHC is higher
+- [Heriditary Spherocytosis](Pathology/Hematology/RBC/HeriditarySpherocytosis.md)  $\rightarrow$ MCHC is higher
 - Poikilocytosis  $\rightarrow$ Change in shape of RBCs
 - Anisocytosis  $\rightarrow$ Change in size of RBCs
 - Parameter to check anisocytosis  $\rightarrow$ RDW

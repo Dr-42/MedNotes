@@ -2,7 +2,7 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Obsidianite",
-  "baseFontSize": 25,
+  "baseFontSize": 20,
   "interfaceFontFamily": "Caladea",
   "enabledCssSnippets": [
     "mermaid_diag"

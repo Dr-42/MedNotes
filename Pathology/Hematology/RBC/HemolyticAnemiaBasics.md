@@ -38,10 +38,10 @@
 		- G6PD deficiency
 		- Hexokinase deficiency
 		- Hemoglobinopathies
-			- [SickleCellAnemia](Pathology/Hematology/SickleCellAnemia.md)
-			- [Thalassemia](Pathology/Hematology/Thalassemia.md)
+			- [SickleCellAnemia](Pathology/Hematology/RBC/SickleCellAnemia.md)
+			- [Thalassemia](Pathology/Hematology/RBC/Thalassemia.md)
 	- Acquired
-		- [PNH](Pathology/Hematology/PNH.md)
+		- [PNH](Pathology/Hematology/RBC/PNH.md)
 - Extracorpuscular causes
 	- Immune mediated
 		- ABO/Rh incompatibilty
