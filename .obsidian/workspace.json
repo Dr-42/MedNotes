@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "336b77aacbf0069e",
@@ -166,6 +165,15 @@
   "active": "5c0b2ffaee8255f5",
   "lastOpenFiles": [
     "Pathology.md",
+    "Pathology/Hematology/WBC/PlasmaCellDisorders.md",
+    "Pathology/Hematology/WBC/PlasmaCellBasics.md",
+    "Pathology/Hematology/WBC/MyeloidDisorders.md",
+    "Pathology/Hematology/WBC/Plasma.md",
+    "Pathology/Hematology/WBC/Lymphoma.md",
+    "Pathology/Hematology/WBC/Myeloid.md",
+    "Pathology/Hematology/WBC/CLL.md",
+    "Pathology/Hematology/WBC/CML.md",
+    "Pathology/Hematology/WBC/WBCBasics.md",
     "Pathology/Hematology/RBC/PNH.md",
     "Pathology/Images/PNHProgressComplications.jpg",
     "Pathology/Images/PNHFlowCytometry.jpg",
@@ -195,17 +203,9 @@
     "Pathology/Hematology/RBC/SickleCellAnemia.md",
     "Surgery/PancreatoBiliary/Liver/CouinaudSegments.md",
     "Surgery/PancreatoBiliary/GallBladder.md",
-    "Pathology/Hematology/RBC/HemolyticAnemiaBasics.md",
-    "Pathology/Hematology/RBC/G6PDDeficiency.md",
-    "Pathology/Genetics/NonClassicalInheritanceDisorders.md",
-    "Surgery/Lung/Tumors/Mets.md",
-    "Surgery/Misc.md",
-    "Pathology/Hematology/RBC/RBCDevelopment.md",
-    "Surger/Skeletal/Bone/BoneMets.md",
     "Surger/Skeletal/Bone",
     "Surger/Skeletal",
     "Surger",
-    "Pathology/Hematology/RBC/HeriditarySpherocytosis.md",
     "Forensic/Toxicology",
     "Forensic",
     "Pathology/Misc",

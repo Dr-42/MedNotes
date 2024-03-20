@@ -30,18 +30,18 @@
 		1. [WBCBasics](Pathology/Hematology/WBC/WBCBasics.md)
 		2. [AML](Pathology/Hematology/WBC/AML.md)
 		3. [ALL](Pathology/Hematology/WBC/ALL.md)
-		4. CML
-		5. CLL
-		6. Myeloid Disorders
-		7. Lymphoma
-		8. Plasma Cell Dyscarias Basics
-		9. Plasma Cell Disorders
+		4. [CML](Pathology/Hematology/WBC/CML.md)
+		5. [CLL](Pathology/Hematology/WBC/CLL.md)
+		6. [Myeloid Disorders](Pathology/Hematology/WBC/MyeloidDisorders.md)
+		7. [Lymphoma](Pathology/Hematology/WBC/Lymphoma.md)
+		8. [Plasma Cell Dyscarias Basics](Pathology/Hematology/WBC/PlasmaCellBasics.md)
+		9. [Plasma Cell Disorders](Pathology/Hematology/WBC/PlasmaCellDisorders.md)
 	4. Platelets and Blood Grouping
 		1. [Basic Concepts of Bleeding Disorders](Pathology/Hematology/BleedingAndBG/BasicConcepts.md)
 		2. Basics of Platelet Disorders
 		3. Basics of Angiopathic Hemolytic Anemia
 		4. Clotting Factor disorders and Factor Inhibitos
-		5. Blood Transfusion and grouping
+		5. Blood Transfusion and Grouping
 		6. Von Willebrand Disease
 		7. Platelet Disorders
 			1. ITP
