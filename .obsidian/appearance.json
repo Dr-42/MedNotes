@@ -1,8 +1,8 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "GitHub Theme",
-  "baseFontSize": 23,
+  "cssTheme": "Obsidianite",
+  "baseFontSize": 25,
   "interfaceFontFamily": "Caladea",
   "enabledCssSnippets": [
     "mermaid_diag"
