@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology/Hematology/RBC/AplasticAnemia.md",
+                "file": "Pathology/Hematology/WBC/WBCBasics.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology/Hematology/RBC/AplasticAnemia.md",
+                "file": "Pathology/Hematology/WBC/WBCBasics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology/Hematology/RBC/AplasticAnemia.md",
+                "file": "Pathology/Hematology/WBC/WBCBasics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pathology/Hematology/RBC/AplasticAnemia.md"
+                "file": "Pathology/Hematology/WBC/WBCBasics.md"
               }
             }
           },
@@ -166,10 +166,16 @@
   "active": "5c0b2ffaee8255f5",
   "lastOpenFiles": [
     "Pathology.md",
+    "Pathology/Hematology/RBC/PNH.md",
+    "Pathology/Images/PNHProgressComplications.jpg",
+    "Pathology/Images/PNHFlowCytometry.jpg",
+    "Surgery/PancreatoBiliary/Liver/PortalHypertension.md",
+    "Pathology/Hematology/RBC/AplasticAnemia.md",
+    "Pathology/Images/AplasticAnemiaBM.jpg",
+    "Pathology/Genetics/SingleGeneDisorders.md",
+    "Pathology/Hematology/RBC/MegaloblasticAnemia.md",
     "Pathology/Hematology/RBC/AutoimmuneHemolyticAnemia.md",
     "Pathology/Images/ColdSlideTest.jpg",
-    "Pathology/Hematology/RBC/AplasticAnemia.md",
-    "Pathology/Hematology/RBC/MegaloblasticAnemia.md",
     "Pathology/Hematology/BleedingAndBG/BasicConcepts.md",
     "Pathology/Images/ClottingCascade.jpg",
     "Pathology/Hematology/RBC/AnemiaClassification.md",
@@ -183,9 +189,6 @@
     "Pathology/Hematology/RBC/Thalassemia.md",
     "Pathology/Images/GolfBallAppearancePS.jpg",
     "Pathology/Images/NestrofTest.jpg",
-    "Pathology/Images/NestrofTest.png",
-    "Pathology/Images/CrewCutSkull.jpg",
-    "Pathology/Images/ThalassemiaPS.jpg",
     "Pathology/Genetics/Basics.md",
     "Pathology/Misc/CDAssociations.md",
     "Pathology/Misc/CDAssiciations.md",
@@ -194,7 +197,6 @@
     "Surgery/PancreatoBiliary/GallBladder.md",
     "Pathology/Hematology/RBC/HemolyticAnemiaBasics.md",
     "Pathology/Hematology/RBC/G6PDDeficiency.md",
-    "Pathology/Genetics/SingleGeneDisorders.md",
     "Pathology/Genetics/NonClassicalInheritanceDisorders.md",
     "Surgery/Lung/Tumors/Mets.md",
     "Surgery/Misc.md",
@@ -204,11 +206,8 @@
     "Surger/Skeletal",
     "Surger",
     "Pathology/Hematology/RBC/HeriditarySpherocytosis.md",
-    "Pathology/Hematology/RBC/MicrocyticAnemia.md",
-    "Forensic/Toxicology/LeadPoisoning.md",
     "Forensic/Toxicology",
     "Forensic",
-    "Pathology/Misc/ChromosomalAssociations.md",
     "Pathology/Misc",
     "Pathology/Hematology/MegaloblasticAnemia",
     "Untitled.canvas"

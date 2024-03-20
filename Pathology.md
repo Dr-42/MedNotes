@@ -37,7 +37,7 @@
 		8. Plasma Cell Dyscarias Basics
 		9. Plasma Cell Disorders
 	4. Platelets and Blood Grouping
-		1. [Basic Concepts of Bleeding Disorders](Pathology/Hematology/BleedingAndBG/BasicConcepts)
+		1. [Basic Concepts of Bleeding Disorders](Pathology/Hematology/BleedingAndBG/BasicConcepts.md)
 		2. Basics of Platelet Disorders
 		3. Basics of Angiopathic Hemolytic Anemia
 		4. Clotting Factor disorders and Factor Inhibitos
