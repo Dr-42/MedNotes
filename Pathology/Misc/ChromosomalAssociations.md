@@ -15,3 +15,5 @@
 	- t(12;21)
 	- t(9:22)
 	- t(1;19)
+- [CML](Pathology/Hematology/WBC/CML.md)
+	- t(9;22)  $\rightarrow$ BCR-ABL

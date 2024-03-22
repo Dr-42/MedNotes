@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Hematology/WBC/CLL.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Hematology/WBC/CLL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology.md",
+                "file": "Pathology/Hematology/WBC/CLL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pathology.md"
+                "file": "Pathology/Hematology/WBC/CLL.md"
               }
             }
           },
@@ -164,11 +164,17 @@
   },
   "active": "5c0b2ffaee8255f5",
   "lastOpenFiles": [
-    "Pathology/Hematology/WBC/ALL.md",
-    "Pathology/Misc/ChromosomalAssociations.md",
-    "Pathology.md",
-    "Pathology/Hematology/WBC/AML.md",
+    "Pathology/Hematology/WBC/CML.md",
+    "Pathology/Hematology/WBC/CLL.md",
+    "Pathology/Misc/CDAssociations.md",
     "Pathology/Hematology/RBC/PNH.md",
+    "Pathology/Hematology/WBC/AML.md",
+    "Pathology/Hematology/WBC/ALL.md",
+    "Pathology/Misc/CDAssiciations.md",
+    "Pathology/Hematology/RBC/HematopoesisBasics.md",
+    "Pathology/Hematology/RBC/HemolyticAnemiaBasics.md",
+    "Pathology.md",
+    "Pathology/Misc/ChromosomalAssociations.md",
     "Pathology/Hematology/WBC/WBCBasics.md",
     "Pathology/Hematology/RBC/AplasticAnemia.md",
     "Pathology/Images/Myeloblast.jpg",
@@ -181,8 +187,6 @@
     "Pathology/Hematology/WBC/Plasma.md",
     "Pathology/Hematology/WBC/Lymphoma.md",
     "Pathology/Hematology/WBC/Myeloid.md",
-    "Pathology/Hematology/WBC/CLL.md",
-    "Pathology/Hematology/WBC/CML.md",
     "Pathology/Images/PNHProgressComplications.jpg",
     "Pathology/Images/PNHFlowCytometry.jpg",
     "Surgery/PancreatoBiliary/Liver/PortalHypertension.md",
@@ -199,10 +203,6 @@
     "Pathology/Hematology/RBC",
     "Pathology/Images/CabotRing.jpg",
     "Pathology/Images/SeiveChromatinMegaloblast.jpg",
-    "Pathology/Hematology/RBC/Thalassemia.md",
-    "Pathology/Genetics/Basics.md",
-    "Pathology/Misc/CDAssociations.md",
-    "Pathology/Misc/CDAssiciations.md",
     "Surger/Skeletal/Bone",
     "Surger/Skeletal",
     "Surger",

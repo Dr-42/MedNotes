@@ -45,7 +45,7 @@
 - Extracorpuscular causes
 	- Immune mediated
 		- ABO/Rh incompatibilty
-		- Autoimmune HA
+		- [Autoimmune Hemolytic Anemia](Pathology/Hematology/RBC/AutoimmuneHemolyticAnemia.md)
 	- Non-immune mediated
 		- Clostridial toxin
 		- Sname venom

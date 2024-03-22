@@ -1,7 +1,7 @@
 # Hematopoesis Basics
 
 ## Hematopoetic Stem Cell
-- Identified by [**CD34**](Pathology/Misc/CDAssiciations)
+- Identified by [**CD34**](Pathology/Misc/CDAssociations)
 - Pluripotent cell
 - Hematopoesis starts at fetal life
 	- At 3 weeks HSC is present in 
