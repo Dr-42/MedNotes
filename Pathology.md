@@ -32,7 +32,7 @@
 		3. [ALL](Pathology/Hematology/WBC/ALL.md)
 		4. [CML](Pathology/Hematology/WBC/CML.md)
 		5. [CLL](Pathology/Hematology/WBC/CLL.md)
-		6. [Myeloid Disorders](Pathology/Hematology/WBC/MyeloidDisorders.md)
+		6. [Myelodysplastic Syndrome](Pathology/Hematology/WBC/MyelodysplasticSyndrome.md)
 		7. [Lymphoma](Pathology/Hematology/WBC/Lymphoma.md)
 		8. [Plasma Cell Dyscarias Basics](Pathology/Hematology/WBC/PlasmaCellBasics.md)
 		9. [Plasma Cell Disorders](Pathology/Hematology/WBC/PlasmaCellDisorders.md)

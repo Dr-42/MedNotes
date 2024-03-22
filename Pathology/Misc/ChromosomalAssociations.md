@@ -17,3 +17,8 @@
 	- t(1;19)
 - [CML](Pathology/Hematology/WBC/CML.md)
 	- t(9;22)  $\rightarrow$ BCR-ABL
+- [MyelodysplasticSyndrome](Pathology/Hematology/WBC/MyelodysplasticSyndrome.md)
+	- 5q deletion
+	- Monosomy 7
+	- P53 gene
+	- Trisomy 8  $\rightarrow$ MYC
