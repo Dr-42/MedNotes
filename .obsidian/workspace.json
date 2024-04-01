@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c1b5eab4749bbff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pharmacology/ANS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathology/Hematology/WBC/CLL.md",
+                "file": "Pharmacology/ANS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathology/Hematology/WBC/CLL.md",
+                "file": "Pharmacology/ANS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pathology/Hematology/WBC/CLL.md"
+                "file": "Pharmacology/ANS.md"
               }
             }
           },
@@ -162,10 +175,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c0b2ffaee8255f5",
+  "active": "6c1b5eab4749bbff",
   "lastOpenFiles": [
-    "Pathology/Hematology/WBC/CML.md",
+    "Pharmacology.md",
+    "Pharmacology/ANS.md",
+    "Pharmacology",
     "Pathology/Hematology/WBC/CLL.md",
+    "Pathology/Hematology/WBC/CML.md",
     "Pathology/Misc/CDAssociations.md",
     "Pathology/Hematology/RBC/PNH.md",
     "Pathology/Hematology/WBC/AML.md",
@@ -195,9 +211,7 @@
     "Pathology/Hematology/RBC/MegaloblasticAnemia.md",
     "Pathology/Hematology/RBC/AutoimmuneHemolyticAnemia.md",
     "Pathology/Images/ColdSlideTest.jpg",
-    "Pathology/Hematology/BleedingAndBG/BasicConcepts.md",
     "Pathology/Images/ClottingCascade.jpg",
-    "Pathology/Hematology/RBC/AnemiaClassification.md",
     "Pathology/Hematology/BleedingAndBG",
     "Pathology/Hematology/WBC",
     "Pathology/Hematology/RBC",
@@ -209,7 +223,6 @@
     "Forensic/Toxicology",
     "Forensic",
     "Pathology/Misc",
-    "Pathology/Hematology/MegaloblasticAnemia",
     "Untitled.canvas"
   ]
 }
