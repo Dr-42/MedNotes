@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathology/Hematology/WBC/CLL.md",
+                "file": "Pharmacology/Misc.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,12 +86,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "336b77aacbf0069e",
@@ -175,12 +175,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c1b5eab4749bbff",
+  "active": "316a7eba4b4f688a",
   "lastOpenFiles": [
-    "Pharmacology.md",
+    "Pharmacology/Misc.md",
     "Pharmacology/ANS.md",
-    "Pharmacology",
+    "Surgery/Misc.md",
     "Pathology/Hematology/WBC/CLL.md",
+    "Pharmacology.md",
+    "Pharmacology/CNS.md",
+    "Pharmacology",
     "Pathology/Hematology/WBC/CML.md",
     "Pathology/Misc/CDAssociations.md",
     "Pathology/Hematology/RBC/PNH.md",
@@ -207,9 +210,6 @@
     "Pathology/Images/PNHFlowCytometry.jpg",
     "Surgery/PancreatoBiliary/Liver/PortalHypertension.md",
     "Pathology/Images/AplasticAnemiaBM.jpg",
-    "Pathology/Genetics/SingleGeneDisorders.md",
-    "Pathology/Hematology/RBC/MegaloblasticAnemia.md",
-    "Pathology/Hematology/RBC/AutoimmuneHemolyticAnemia.md",
     "Pathology/Images/ColdSlideTest.jpg",
     "Pathology/Images/ClottingCascade.jpg",
     "Pathology/Hematology/BleedingAndBG",

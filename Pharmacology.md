@@ -7,3 +7,4 @@
 7. [Anticancers](Pharmacology/Anticancers.md)
 8. [Autacoids](Pharmacology/Autacoids.md)
 9. [Anaestheisa](Pharmacology/Anaestheisa.md)
+10. [Misc](Pharmacology/Misc)
