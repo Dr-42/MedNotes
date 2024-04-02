@@ -108,3 +108,50 @@ Two types
 		- Dry eyes
 		- $\downarrow$ sweating  $\rightarrow$ Hyperthermia (Atropine fever)  $\rightarrow$ Fatal in children
 	- Hence atropine is contraindicated in children
+	- Pre-anaesthetic medications
+		- Inhalational anaesthetics cause ciliary inhibition
+		- This leads to accumulation of secretions
+		- Hence anti-cholinergic given to decrease secretions
+		- Drug used  $\rightarrow$ **Glycopyrrolate**
+		- Doesn't cross BBB
+- Smooth muscle
+	- Colic pain occurs due to irritation of smooth muscles by obstruction
+	- Relaxing them will releive pain
+	- Drugs
+		- Dicyclomine
+		- Oxybutynin
+		- Hycosine
+		- Propantheline
+- Eye
+	- M<sub>3</sub> block will cause <u>Mydriasis</u>
+		- Required in fundoscopy
+		- Cannot be done in *Angle closure galucoma*
+	- Also causes loss of accomodation by **Cycloplegia** 
+		- Required for refraction testing
+	- Drugs
+		- Atropine
+			- DOC in children
+		- Homatropine
+		- Cyclopentolate
+		- Tropicamide
+			- Shortest acting
+- CNS
+	- Drugs
+		- Hycosine
+		- Scopolamine
+	- Uses
+		- Prevent motion sickness by inhibiting CTZ
+		- Narco analysis  $\rightarrow$ not used now
+- Basal Ganglia
+	- Cholinergic and Dopaminergic neurons have opposite effects
+	- Parkinsonism has loss of Dopaminergic neurons
+	- Drugs
+		- Benzhexol (Trihexyphenidyl)
+		- Benzotopine
+		- Procyclidine
+- Poisoning
+	- Atropine DOC for
+		- OP poisoning
+		- Carbamate poisoning
+		- Early mushroom poisoning
+			- Caused by **Inocybe**
