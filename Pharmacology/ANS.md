@@ -53,3 +53,14 @@ Two types
 	- Reversal of muscle relaxants like Atracurium and Pancurium
 	- Post-op paralytic ileus
 	- Post-op urinary retention
+
+## AChE Reactivators  $\rightarrow$ Oxinmes
+- Can only be Organophosphates and not carbamates since carbamates are huge molecules and oximes can't displace them
+- Examples
+	- Pralidoxime
+		- Only perpheral action
+	- Diacetyl monoxime
+		- Peripheral + Central action
+- Cannot be given late as the OP + Enzyme bond becomes too strong and oximes can't work
+
+## Anticholinergics
