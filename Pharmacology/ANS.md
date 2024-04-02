@@ -63,4 +63,48 @@ Two types
 		- Peripheral + Central action
 - Cannot be given late as the OP + Enzyme bond becomes too strong and oximes can't work
 
+---
 ## Anticholinergics
+
+### M<sub>1</sub> blockers
+- Drugs
+	- Pirenzepine
+	- Telenzapine
+- Used in Peptic Ulcer disease as they are selective M<sub>1</sub> blockers
+- Atropine not used d/t systemic side effects
+
+### M<sub>2</sub> blockers
+- Effects
+	- Increased rate  $\rightarrow$ Used for bradycardia
+	- Increased conduction  $\rightarrow$ Used for AV block
+- Atropine used for this action
+
+### M<sub>3</sub> blockers
+- Respiratory
+	- Inhalational M<sub>3</sub># will cause Bronchodilation
+	- Ipratropium
+	- Tiotropium
+	> Atropine causes inhibition of both pre-synaptic and post synaptic fibres. So there is initial broncho-constriction due to pre-sympathetic block called **Transient Bronchoconstriction**. Later post synaptic block takes over with net bronchodilation
+	> In case nebuliser has impurities like <u>Benzalkonium, EDTA or Hypertonic Saline</u>, Transient Bronchoconstriction will remain for a very long time
+- Bladder
+	- Used treatment of overactive bladder
+	- **S**olifenacin
+		- $\uparrow$ $\uparrow$ $\uparrow$ Vescicoselctive
+	- **O**xybutin
+		- Relaxes the bladder directly too
+	- **F**lavoxate
+		- Relaxes the bladder directly too
+	- **F**esoterodine
+	- **T**olterodine
+	- **T**rospium
+		- Excreted by kidney  $\rightarrow$ CI in renal failure
+	- **D**arifenacin
+		- $\uparrow$ $\uparrow$ $\uparrow$ Vescicoselctive
+> SOFT blaDder
+- Glands
+	- M<sub>3</sub> block in glands will cause
+		- Dry skin
+		- Dry mouth
+		- Dry eyes
+		- $\downarrow$ sweating  $\rightarrow$ Hyperthermia (Atropine fever)  $\rightarrow$ Fatal in children
+	- Hence atropine is contraindicated in children
