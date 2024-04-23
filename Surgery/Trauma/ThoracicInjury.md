@@ -10,7 +10,7 @@
 - Sternocleidomastoid
 	- Injury anterior to SCM - High likelihood of significant injury
 	- Injury posterior to SCM - Low chances of injury to major vascular and aerodigestive structures
-	- Penetrating injuries to posterior triangle - Possibel injury to
+	- Penetrating injuries to posterior triangle - Possibele injury to
 		- Cervical spine
 		- Cord
 ### Zones of Neck Injuries
@@ -103,7 +103,7 @@
 - Descending torn aorta or great vessels
 - Pericardial tamponade
 - Cardiac herniation
-- Massive air leak from chest tube with inadequete ventilation
+- Massive air leak from chest tube with inadequate ventilation
 - Open pneumothorax
 - Esophageal perforation
 
@@ -209,13 +209,13 @@
 - Types
 	- Air Blast
 		- MC injured - Typnaic membrane > Lungs
-		- Most severly injured - Lungs
+		- Most severely injured - Lungs
 	- Water blast
 		- When head is out of water
-			- Most commonly and severly injured - GIT
+			- Most commonly and severely injured - GIT
 		- When head is submerged
 			- MC injured - Tympanic membrane
-			- Most severly injured - GIT
+			- Most severely injured - GIT
 ## ICD Insertion
 	![ICD](Surgery/Images/ICD.jpg)
 - ICD insertion should be done in Triangle of Safety
