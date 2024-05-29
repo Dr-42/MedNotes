@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "6c1b5eab4749bbff",
+            "id": "d1946020cdcf8da0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pharmacology/ANS.md",
+                "file": "Pharmacology/Endocrine/Diabetes Mellitus.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pharmacology/ANS.md",
+                "file": "Pharmacology/Endocrine/Diabetes Mellitus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pharmacology/ANS.md",
+                "file": "Pharmacology/Endocrine/Diabetes Mellitus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pharmacology/ANS.md"
+                "file": "Pharmacology/Endocrine/Diabetes Mellitus.md"
               }
             }
           },
@@ -175,8 +175,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c1b5eab4749bbff",
+  "active": "d1946020cdcf8da0",
   "lastOpenFiles": [
+    "Pharmacology/Misc.md",
+    "Pharmacology/Endocrine.md",
+    "Pharmacology/Endocrine/Diabetes Mellitus.md",
+    "Pharmacology/Endocrine",
+    "Pharmacology.md",
+    "Pharmacology/ANS.md",
     "Pathology/Images/RScell.jpg",
     "Pathology/Images/PseudoPelgerHuetCells.jpg",
     "Pathology/Images/PopcornCell.jpg",
@@ -187,11 +193,8 @@
     "Pathology/Images/LNZones.jpg",
     "Pathology/Images/AnnArborStagingHL.jpg",
     "Pathology/Hematology/WBC/MyelodysplasticSyndrome.md",
-    "Pharmacology/Misc.md",
-    "Pharmacology/ANS.md",
     "Surgery/Misc.md",
     "Pathology/Hematology/WBC/CLL.md",
-    "Pharmacology.md",
     "Pharmacology/CNS.md",
     "Pharmacology",
     "Pathology/Hematology/WBC/CML.md",
@@ -207,13 +210,10 @@
     "Pathology/Hematology/WBC/WBCBasics.md",
     "Pathology/Hematology/RBC/AplasticAnemia.md",
     "Pathology/Images/Myeloblast.jpg",
-    "Pathology/Images/Lymphoblast.jpg",
     "Pathology/Genetics/SpecificCytogeneticDisorders.md",
     "Pathology/Hematology/WBC/PlasmaCellDisorders.md",
     "Pathology/Hematology/WBC/PlasmaCellBasics.md",
     "Pathology/Hematology/WBC/MyeloidDisorders.md",
-    "Pathology/Hematology/WBC/Plasma.md",
-    "Pathology/Hematology/WBC/Lymphoma.md",
     "Pathology/Hematology/BleedingAndBG",
     "Pathology/Hematology/WBC",
     "Pathology/Hematology/RBC",
@@ -222,7 +222,6 @@
     "Surger",
     "Forensic/Toxicology",
     "Forensic",
-    "Pathology/Misc",
     "Untitled.canvas"
   ]
 }
