@@ -1,1 +1,0 @@
-1. [Diabetes Mellitus](Pharmacology/Endocrine/Diabetes Mellitus.md)

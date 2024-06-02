@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pharmacology/Misc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1946020cdcf8da0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pharmacology/Endocrine/Diabetes Mellitus.md",
+                "file": "Pharmacology/HIV.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pharmacology/Endocrine/Diabetes Mellitus.md",
+                "file": "Pharmacology/HIV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pharmacology/Endocrine/Diabetes Mellitus.md",
+                "file": "Pharmacology/HIV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pharmacology/Endocrine/Diabetes Mellitus.md"
+                "file": "Pharmacology/HIV.md"
               }
             }
           },
@@ -175,13 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1946020cdcf8da0",
+  "active": "5c0b2ffaee8255f5",
   "lastOpenFiles": [
-    "Pharmacology/Misc.md",
+    "Pharmacology.md",
+    "Pharmacology/HIV.md",
     "Pharmacology/Endocrine.md",
+    "Pharmacology/Misc.md",
     "Pharmacology/Endocrine/Diabetes Mellitus.md",
     "Pharmacology/Endocrine",
-    "Pharmacology.md",
     "Pharmacology/ANS.md",
     "Pathology/Images/RScell.jpg",
     "Pathology/Images/PseudoPelgerHuetCells.jpg",

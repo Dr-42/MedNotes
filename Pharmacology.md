@@ -2,6 +2,8 @@
 2. [CVS](Pharmacology/CVS.md)
 3. [GI](Pharmacology/GI.md)
 4. [Endocrine](Pharmacology/Endocrine.md)
+	1. [Diabetes Mellitus](Pharmacology/Endocrine/Diabetes Mellitus.md)
+	2. [HIV](Pharmacology/HIV.md)
 5. [CNS](Pharmacology/CNS.md)
 6. [Antimicrobials](Pharmacology/Antimicrobials.md)
 7. [Anticancers](Pharmacology/Anticancers.md)
