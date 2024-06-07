@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pediatrics/Milestones.md",
+                "file": "Pharmacology/Anaestheisa.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pediatrics/Milestones.md",
+                "file": "Pharmacology/Anaestheisa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pediatrics/Milestones.md",
+                "file": "Pharmacology/Anaestheisa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pediatrics/Milestones.md"
+                "file": "Pharmacology/Anaestheisa.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "ec3a3fba5d829a04",
   "lastOpenFiles": [
-    "Pediatrics.md",
+    "Pharmacology.md",
+    "Pharmacology/Anaestheisa.md",
     "Pediatrics/Milestones.md",
+    "Pediatrics.md",
     "Pediatrics/Milestones/Fine Motor.md",
     "Pediatrics/Milestones/Language.md",
     "Pediatrics/Milestones/Social.md",
@@ -176,7 +178,6 @@
     "Pediatrics.md~",
     "Pediatrics/Gross Motor.md",
     "Pediatrics",
-    "Pharmacology.md",
     "Pharmacology/Endocrine.md",
     "Pharmacology/Misc.md",
     "Pharmacology/Endocrine/Diabetes Mellitus.md",
@@ -203,7 +204,6 @@
     "Pathology/Hematology/WBC/ALL.md",
     "Pathology/Misc/CDAssiciations.md",
     "Pathology/Hematology/RBC/HematopoesisBasics.md",
-    "Pathology/Hematology/RBC/HemolyticAnemiaBasics.md",
     "Pathology/Images/Myeloblast.jpg",
     "Pathology/Hematology/BleedingAndBG",
     "Pathology/Hematology/WBC",
