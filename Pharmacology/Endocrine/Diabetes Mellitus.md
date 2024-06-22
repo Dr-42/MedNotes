@@ -51,7 +51,7 @@
 
 ### Insulin secretagogoues
 #### General
-- > 30% functional $\beta$ cells should be present
+- 30% or more functional $\beta$ cells should be present
 - S/E of hypoglycemia
 - TO REMEMBER  $\rightarrow$ **Drugs ending in -ide** cause hypoglycemia
 #### Sulphonyureas
@@ -66,7 +66,7 @@
 - Nataglinide
 - Repaglinide
 
-### Drugs mimicing isulin
+### Drugs mimicing insulin
 #### Biguanides (AMP Kinases)
 - Drugs
 	- Metformin
@@ -91,14 +91,14 @@
 		- Can cause weight loss (no weight gain)
 		- Also indicated in *PCOD*  $\rightarrow$ reverse insulin resistance
 > Metformin preferred in <u>Obese</u> patients
-> Sulphonylureas preferred in thin patients
+> Sulphonylureas preferred in <u>Thin</u> patients
 
 #### Glitazones (Thiazolidienediones)
 - Include
 	- Troglitazone
 	- Rosiglitazone
 	- Pioglitazone
-- Acts by stimulating **PPAR-$\gamma$**  $\rightarrow$ Reversal of Insulin ressitance
+- Acts by stimulating **PPAR-$\gamma$**  $\rightarrow$ Reversal of Insulin resistance
 - S/E
 	- Hepatotoxic
 		- Max hepatotoxic  $\rightarrow$ Troglitazone (withdrawn)
